@@ -1,0 +1,27 @@
+{
+  "name": "awesome-seo",
+  "version": "1.0.0",
+  "description": "A curated list of SEO links.",
+  "main": "src/run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teles/awesome-seo.git"
+  },
+  "keywords": [
+    "seo",
+    "awesome",
+    "lists"
+  ],
+  "author": "Jota Teles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teles/awesome-seo/issues"
+  },
+  "homepage": "https://github.com/teles/awesome-seo#readme",
+  "dependencies": {
+    "handlebars": "^4.0.3"
+  }
+}
