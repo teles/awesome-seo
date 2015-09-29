@@ -33,6 +33,40 @@ function Link(title, href, description, category, language, tags){
     this.tags = tags;
 }
 
+function Category(name, links){
+    this.name =  name;
+    this.links =  links;
+}
+
+function appendLinkToCategory(Category, link){
+    Category.links.push(link);
+}
+
+function getCategoriesPerLinks(links){
+    var categories = new Array();
+    for(var i=0; i < links.length; i++){
+        var link = links[i];        
+        var category = new Category(link.category, link);
+    }    
+    return categories;  
+}
+
+function uniq(a) {
+    return a.sort().filter(function(item, pos, ary) {
+        return !pos || item != ary[pos - 1];
+    })
+}
+
+function cleanTags(tags){
+    for (var i=0; i < tags.length; i++){
+        tags[i] = tags[i].trim();
+        if(tags[i] === '' || tags[i].length < 1){
+            tags.splice(i, 1); 
+        }        
+    }
+    return tags;
+}
+
 function parseResultToLinks(results){
     var links = [];
     for(var i=results.length-1; i >= 0; i--){
@@ -47,6 +81,14 @@ function parseResultToLinks(results){
         links.push(link);
     }
     return links;
+}
+
+function createFoldersForTags(tags){
+    for(var i=0; i < tags.length; i++){
+        if (!fs.existsSync(tags[i])){
+            fs.mkdirSync(tags[i]);
+        }            
+    }    
 }
 
 function imprimeLinksParaREADME(links){
