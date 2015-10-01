@@ -2,5 +2,9 @@
     A curated list of seo links!
 
 {{#each this}}    
-* [{{title}}]({{href}}) {{#if description}}- {{description}} {{/if}}
+## {{@key}}
+    {{#each this}}
+* [{{link.title}}]({{link.href}}) {{#if link.description}}- {{link.description}} {{/if}}    
+    {{/each}}
+    
 {{/each}}

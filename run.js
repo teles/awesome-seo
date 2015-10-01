@@ -19,8 +19,10 @@ var request = http.get(GLOBAL.endpoint_url, function (response) {
     response.on("end", function (err) {
         data = JSON.parse(buffer);
         var results = data.result;
-        var links = parseResultToLinks(results);
-        imprimeLinksParaREADME(links);
+        var links = parseResultToLinks(results);        
+        var categoriesMap = arrayLinksToMap(links);
+        imprimeLinksParaREADME(categoriesMap);        
+
     }); 
 });
 
@@ -33,38 +35,27 @@ function Link(title, href, description, category, language, tags){
     this.tags = tags;
 }
 
-function Category(name, links){
+function Category(name, link){
     this.name =  name;
-    this.links =  links;
+    this.link =  link;
 }
 
-function appendLinkToCategory(Category, link){
-    Category.links.push(link);
-}
+function arrayLinksToMap(links){
+    var categoriesMap = {};
 
-function getCategoriesPerLinks(links){
-    var categories = new Array();
-    for(var i=0; i < links.length; i++){
-        var link = links[i];        
-        var category = new Category(link.category, link);
+    for(var i=0; i < links.length; i++) {
+        var link = links[i];            
+        var categoryName = link.category.toString().trim();
+        var category = new Category(categoryName, link);
+
+        if(!categoriesMap[categoryName]){
+            categoriesMap[categoryName] = [category];
+        }
+        else{
+            categoriesMap[categoryName].push(category)    
+        }
     }    
-    return categories;  
-}
-
-function uniq(a) {
-    return a.sort().filter(function(item, pos, ary) {
-        return !pos || item != ary[pos - 1];
-    })
-}
-
-function cleanTags(tags){
-    for (var i=0; i < tags.length; i++){
-        tags[i] = tags[i].trim();
-        if(tags[i] === '' || tags[i].length < 1){
-            tags.splice(i, 1); 
-        }        
-    }
-    return tags;
+    return categoriesMap;
 }
 
 function parseResultToLinks(results){
@@ -83,18 +74,11 @@ function parseResultToLinks(results){
     return links;
 }
 
-function createFoldersForTags(tags){
-    for(var i=0; i < tags.length; i++){
-        if (!fs.existsSync(tags[i])){
-            fs.mkdirSync(tags[i]);
-        }            
-    }    
-}
-
 function imprimeLinksParaREADME(links){
 	fs.readFile(GLOBAL.template_url, 'utf-8', function(error, source){
 		var template = handlebars.compile(source);
 		var markdown = template(links);
+        console.log(markdown);
 		fs.writeFile(GLOBAL.readme_url, markdown, function(err) {	
 			if(err) {
 		    	return console.log(err);
