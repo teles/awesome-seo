@@ -31,6 +31,7 @@ var request = http.get(GLOBAL.endpoint_url, function (response) {
         var results = data.result;
         var links = parseResultToLinks(results);        
         var categoriesMap = arrayLinksToMap(links);
+        console.log(arrayLinksToTags(links));
         imprimeLinksParaREADME(categoriesMap);        
 
     }); 
@@ -46,6 +47,11 @@ function Link(title, href, description, category, language, tags){
 }
 
 function Category(name, link){
+    this.name =  name;
+    this.link =  link;
+}
+
+function Tag(name, link){
     this.name =  name;
     this.link =  link;
 }
@@ -68,6 +74,26 @@ function arrayLinksToMap(links){
     return categoriesMap;
 }
 
+function arrayLinksToTags(links){
+    var tagsMap = {};
+
+    for(var i=0; i < links.length; i++){
+        var link = links[i];
+        link.tags.map(function(tag){
+            var tagName = tag.toString().trim();
+            var tag = new Tag(tagName, link);
+            if(!tagsMap[tagName]){
+                tagsMap[tagName] = [tag];
+            }
+            else{
+                tagsMap[tagName].push(tag)    
+            }
+        });        
+    }
+    return tagsMap;
+}
+
+
 function parseResultToLinks(results){
     var links = [];
     for(var i=results.length-1; i >= 0; i--){
@@ -88,7 +114,6 @@ function imprimeLinksParaREADME(links){
 	fs.readFile(GLOBAL.template_url, 'utf-8', function(error, source){
 		var template = handlebars.compile(source);
 		var markdown = template(links);
-        console.log(markdown);
 		fs.writeFile(GLOBAL.readme_url, markdown, function(err) {	
 			if(err) {
 		    	return console.log(err);
