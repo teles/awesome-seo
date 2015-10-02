@@ -31,9 +31,9 @@ var request = http.get(GLOBAL.endpoint_url, function (response) {
         var results = data.result;
         var links = parseResultToLinks(results);        
         var categoriesMap = arrayLinksToMap(links);
-        console.log(arrayLinksToTags(links));
+        var tagsMap = arrayLinksToTags(links);
+        imprimeTagsParaREADME(tagsMap);
         imprimeLinksParaREADME(categoriesMap);        
-
     }); 
 });
 
@@ -80,8 +80,11 @@ function arrayLinksToTags(links){
     for(var i=0; i < links.length; i++){
         var link = links[i];
         link.tags.map(function(tag){
-            var tagName = tag.toString().trim();
-            var tag = new Tag(tagName, link);
+            if(tag.toString().length > 1){
+                var tagName = tag.toString().trim();                
+                var tag = new Tag(tagName, link);
+            }
+            
             if(!tagsMap[tagName]){
                 tagsMap[tagName] = [tag];
             }
@@ -108,6 +111,19 @@ function parseResultToLinks(results){
         links.push(link);
     }
     return links;
+}
+
+function imprimeTagsParaREADME(tagsMap){
+    var i = 0;
+    for (var tags in tagsMap) {
+        var tagName = tagsMap[tags][0].name;
+        if (tagsMap.hasOwnProperty(tags) && typeof(tagName)!== 'undefined') {
+            // creates the tag folder if it doesnt exists
+            if (!fs.existsSync(tagName)){
+                fs.mkdirSync(tagName);                      
+            }            
+        }
+    }
 }
 
 function imprimeLinksParaREADME(links){
