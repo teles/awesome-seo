@@ -1,10 +1,11 @@
 # Awesome SEO
     A curated list of seo links!
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
+
 ## Tools/Ferramentas
 * [AHrefs](https://ahrefs.com)  
-* [Similar Web](http://www.similarweb.com/)  
-* [Sem Rush](http://www.semrush.com/)  
+* [Similar Web](http://www.similarweb.com/) - Discover your world rank and get information about traffic, referrals, and so on  
+* [Sem Rush](http://www.semrush.com/) - Complete tool to analyse website keywords  
 * [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site  
 * [Spider simulator](http://tools.seochat.com/tools/search-spider-simulator) - Search engine spider simulator  
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton  
