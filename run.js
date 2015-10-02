@@ -17,6 +17,25 @@ handlebars.registerHelper('equal', function(lvalue, rvalue, options) {
     }
 });
 
+handlebars.registerHelper('lastUpdateBadge', function() {
+    var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth();
+    var yyyy = today.getFullYear();
+
+    if(dd<10) {
+        dd='0'+dd
+    } 
+ 
+    var monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+    today = dd+' '+ monthNames[mm]+' '+yyyy;
+    today = encodeURIComponent(today);
+
+    var markdownBadge = "![Last update](https://img.shields.io/badge/last%20update-"+today+"-brightgreen.svg?style=flat-square)";
+
+    return new handlebars.SafeString(markdownBadge);
+});
+
 var request = http.get(GLOBAL.endpoint_url, function (response) {
     var buffer = "";
     var data;

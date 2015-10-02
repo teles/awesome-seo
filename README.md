@@ -1,6 +1,7 @@
 # Awesome SEO
     A curated list of seo links!
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
+![Last update](https://img.shields.io/badge/last%20update-01%20OCT%202015-brightgreen.svg?style=flat-square)
 
 ## Tools/Ferramentas
 * [AHrefs](https://ahrefs.com)  
