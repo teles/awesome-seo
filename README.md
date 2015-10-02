@@ -1,10 +1,11 @@
 # Awesome SEO
-![Last update](https://img.shields.io/badge/last%20update-01%20OCT%202015-brightgreen.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-02%20OCT%202015-brightgreen.svg?style=flat-square)
 
     A curated list of seo links!
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
 
 ## Tools/Ferramentas
+* [Google structured data test tool](https://developers.google.com/structured-data/testing-tool/) - Test your microdata markup and see examples  
 * [AHrefs](https://ahrefs.com)  
 * [Similar Web](http://www.similarweb.com/) - Discover your world rank and get information about traffic, referrals, and so on  
 * [Sem Rush](http://www.semrush.com/) - Complete tool to analyse website keywords  
