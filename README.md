@@ -43,8 +43,8 @@
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
     
 
-## LICENSE
+##License
 
-![CC0 Badge](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg)
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information [in license file](LICENSE).
+To the extent possible under law, [Jota Teles](http://github.com/teles) has waived all copyright and related or neighboring rights to this work.
