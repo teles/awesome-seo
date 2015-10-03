@@ -31,7 +31,7 @@ handlebars.registerHelper('lastUpdateBadge', function() {
     today = dd+' '+ monthNames[mm]+' '+yyyy;
     today = encodeURIComponent(today);
 
-    var markdownBadge = "![Last update](https://img.shields.io/badge/last%20update-"+today+"-brightgreen.svg?style=flat-square)";
+    var markdownBadge = "![Last update](https://img.shields.io/badge/last%20update-"+today+"-brightgreen.svg)";
 
     return new handlebars.SafeString(markdownBadge);
 });
