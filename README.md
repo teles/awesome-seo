@@ -1,7 +1,8 @@
 # Awesome SEO
 ![Last update](https://img.shields.io/badge/last%20update-03%20OCT%202015-brightgreen.svg?style=flat-square)
 
-    A curated list of seo links!
+> A curated list of seo links!
+
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
 
 ## Specification
