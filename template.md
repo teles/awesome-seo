@@ -1,4 +1,5 @@
 # Awesome SEO
+[![Join the chat at https://gitter.im/teles/awesome-seo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/teles/awesome-seo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 {{lastUpdateBadge}}
 
 > A curated list of seo links!
