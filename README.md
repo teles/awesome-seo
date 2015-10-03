@@ -1,9 +1,15 @@
 # Awesome SEO
-![Last update](https://img.shields.io/badge/last%20update-02%20OCT%202015-brightgreen.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-03%20OCT%202015-brightgreen.svg?style=flat-square)
 
     A curated list of seo links!
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
 
+## Specification
+* [Schema.org full list documentation](http://schema.org/docs/full.html) - Full list of recipes from schema.org  
+* [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
+* [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
+* [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)  
+    
 ## Tools/Ferramentas
 * [Woorank](https://www.woorank.com/pt/) - Test your website according to more than 70 criteria  ![brazilian flag][br]
 * [Google structured data test tool](https://developers.google.com/structured-data/testing-tool/) - Test your microdata markup and see examples  
@@ -36,8 +42,9 @@
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
     
-## Specification
-* [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
-* [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
-* [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)  
-    
+
+## LICENSE
+
+![CC0 Badge](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg)
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information [in license file](LICENSE).
