@@ -11,3 +11,9 @@
     {{/each}}
     
 {{/each}}
+
+## LICENSE
+
+![CC0 Badge](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg)
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information [in license file](LICENSE).
