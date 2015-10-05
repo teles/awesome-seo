@@ -1,11 +1,12 @@
 GLOBAL = {};
-GLOBAL.endpoint_url = "http://sheetsu.com/apis/736acdf9";
+GLOBAL.endpoint_url = "https://sheetsu.com/apis/1878d9c1";
 GLOBAL.template_url = "template.md";
 GLOBAL.readme_url = "readme.md";
 
-var http = require("http");
+var http = require("https");
 var handlebars = require('handlebars');
 var fs = require('fs');
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 
 handlebars.registerHelper('equal', function(lvalue, rvalue, options) {
     if (arguments.length < 3)
