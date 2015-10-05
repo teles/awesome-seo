@@ -1,7 +1,7 @@
 GLOBAL = {};
 GLOBAL.endpoint_url = "http://sheetsu.com/apis/736acdf9";
 GLOBAL.template_url = "template.md";
-GLOBAL.readme_url = "README.md";
+GLOBAL.readme_url = "readme.md";
 
 var http = require("http");
 var handlebars = require('handlebars');
