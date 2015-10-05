@@ -1,6 +1,6 @@
 # Awesome SEO
 
-![Last update](https://img.shields.io/badge/last%20update-03%20OCT%202015-green.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-04%20OCT%202015-green.svg?style=flat-square)
 [![Join the chat at https://gitter.im/teles/awesome-seo](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](https://gitter.im/teles/awesome-seo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > A curated list of seo links!
@@ -8,6 +8,8 @@
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
 
 ## Specification
+* [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
+* [Indicate paginated content](https://support.google.com/webmasters/answer/1663744) - How to use rel&#x3D;next and rel&#x3D;prev on your pages  
 * [Schema.org full list documentation](http://schema.org/docs/full.html) - Full list of recipes from schema.org  
 * [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
 * [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
