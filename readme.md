@@ -1,21 +1,14 @@
 # Awesome SEO
 
-![Last update](https://img.shields.io/badge/last%20update-07%20OCT%202015-green.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-19%20NOV%202015-green.svg?style=flat-square)
 [![Join the chat at https://gitter.im/teles/awesome-seo](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](https://gitter.im/teles/awesome-seo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > A curated list of seo links!
 
 [br]: https://upload.wikimedia.org/wikipedia/commons/4/40/Icons-flag-br.png  "Conteúdo disponível em português"
 
-## Specification
-* [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
-* [Indicate paginated content](https://support.google.com/webmasters/answer/1663744) - How to use rel&#x3D;next and rel&#x3D;prev on your pages  
-* [Schema.org full list documentation](http://schema.org/docs/full.html) - Full list of recipes from schema.org  
-* [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
-* [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
-* [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)  
-    
 ## Tools/Ferramentas
+* [HTML5 outliner](https://gsnedders.html5.org/outliner/) - Check the header structure for your website  
 * [Woorank](https://www.woorank.com/pt/) - Test your website according to more than 70 criteria  ![brazilian flag][br]
 * [Google structured data test tool](https://developers.google.com/structured-data/testing-tool/) - Test your microdata markup and see examples  
 * [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter  
@@ -37,6 +30,14 @@
 * [Loader.io](https://loader.io/) - Cloud-based - Load testing  
 * [Page speed test by Google](https://developers.google.com/speed/pagespeed/insights/?hl&#x3D;pt-BR)  ![brazilian flag][br]
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google  
+    
+## Specification
+* [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
+* [Indicate paginated content](https://support.google.com/webmasters/answer/1663744) - How to use rel&#x3D;next and rel&#x3D;prev on your pages  
+* [Schema.org full list documentation](http://schema.org/docs/full.html) - Full list of recipes from schema.org  
+* [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
+* [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
+* [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)  
     
 ## Articles
 * [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/)  
