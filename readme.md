@@ -38,6 +38,7 @@
 * [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
 * [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
 * [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)  
+* [JSON-LD Schema Markup Generator for SEO](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD instead of inline.  Can be used with GTM or anywhere on the page.
     
 ## Articles
 * [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/)  
