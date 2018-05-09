@@ -1,6 +1,6 @@
 # Awesome SEO
 
-![Last update](https://img.shields.io/badge/last%20update-19%20NOV%202015-green.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-09%20MAY%202018-green.svg?style=flat-square)
 [![Join the chat at https://gitter.im/teles/awesome-seo](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](https://gitter.im/teles/awesome-seo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > A curated list of seo links!
@@ -30,6 +30,7 @@
 * [Loader.io](https://loader.io/) - Cloud-based - Load testing  
 * [Page speed test by Google](https://developers.google.com/speed/pagespeed/insights/?hl&#x3D;pt-BR)  ![brazilian flag][br]
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google  
+* [SEO Assistant Chrome Extension](https://chrome.google.com/webstore/detail/galileo-seo-assistant/jmehfdipeccfhbfbmkfpikgmfpamlalf) - SEO extension for checking on page elements.
     
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
