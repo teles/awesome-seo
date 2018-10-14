@@ -31,6 +31,7 @@
 * [Page speed test by Google](https://developers.google.com/speed/pagespeed/insights/?hl&#x3D;pt-BR)  ![brazilian flag][br]
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google  
 * [SEO Assistant Chrome Extension](https://chrome.google.com/webstore/detail/galileo-seo-assistant/jmehfdipeccfhbfbmkfpikgmfpamlalf) - SEO extension for checking on page elements.
+* [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
     
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
@@ -42,16 +43,19 @@
 * [JSON-LD Schema Markup Generator for SEO](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD instead of inline.  Can be used with GTM or anywhere on the page.
     
 ## Articles
-* [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/)  
+* [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/) 
+* [How Online Reviews Impact Local SEO and Why They Matter to Your Bottom Line](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line)
+* [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist)
+* [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations/)
 * [Schema.org – Dando significado ao conteúdo na internet](http://blog.popupdesign.com.br/schema-org-dando-significado-ao-conteudo-na-internet/) - Blog post about schema.org implementation  ![brazilian flag][br]
-* [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster  
 * [Sitelinks search box](https://developers.google.com/structured-data/slsb-overview) - Everything you want to know about the search box  
+* [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster  
     
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
     
 
-##License
+## License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
