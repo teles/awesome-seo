@@ -16,6 +16,7 @@
 * [Sem Rush](http://www.semrush.com/) - Complete tool to analyse website keywords  
 * [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site  
 * [Spider simulator](http://tools.seochat.com/tools/search-spider-simulator) - Search engine spider simulator  
+* [ContentStudio](https://app.contentstudio.io) - Discovery niche-relevant and engaging content and have it shared on your social media channels.
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton  
 * [Open graph debugger](https://developers.facebook.com/tools/debug/og/object?) - Open graph online debugger  
 * [Keywordtool.io](http://keywordtool.io/) - Keyword searching online tool for google, youtube, appstore and bing  
