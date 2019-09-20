@@ -50,7 +50,8 @@
 * [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations/)
 * [Schema.org – Dando significado ao conteúdo na internet](http://blog.popupdesign.com.br/schema-org-dando-significado-ao-conteudo-na-internet/) - Blog post about schema.org implementation  ![brazilian flag][br]
 * [Sitelinks search box](https://developers.google.com/structured-data/slsb-overview) - Everything you want to know about the search box  
-* [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster  
+* [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster
+* [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website's loads faster
     
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
