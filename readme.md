@@ -14,19 +14,14 @@
 * [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter  
 * [Similar Web](http://www.similarweb.com/) - Discover your world rank and get information about traffic, referrals, and so on  
 * [Sem Rush](http://www.semrush.com/) - Complete tool to analyse website keywords  
-* [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site  
-* [Spider simulator](http://tools.seochat.com/tools/search-spider-simulator) - Search engine spider simulator  
+* [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site    
 * [ContentStudio](https://app.contentstudio.io) - Discovery niche-relevant and engaging content and have it shared on your social media channels.
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton  
 * [Open graph debugger](https://developers.facebook.com/tools/debug/og/object?) - Open graph online debugger  
 * [Keywordtool.io](http://keywordtool.io/) - Keyword searching online tool for google, youtube, appstore and bing  
-* [Moz seo toolbar](https://moz.com/tools/seo-toolbar) - SEO addon with many funcionalities  
-* [Rank scanner](http://app.rankscanner.com/) - Scan your site position per keyword   
+* [Moz seo toolbar](https://moz.com/tools/seo-toolbar) - SEO addon with many funcionalities     
 * [Complete List of HTML Meta Tags](https://gist.github.com/whitingx/3840905)  
-* [Google trends](https://www.google.com/trends/) - Discover the global trend topics from google  
-* [Internal link building](http://tools.seochat.com/tools/interlinking-plugin/) - Wordpress plugin to generate internal links  
-* [Free SEO Tools Collection](http://tools.seochat.com/) - Tons of free seo tools!  
-* [Structured Data Testing Tool by Google](https://developers.google.com/structured-data/testing-tool/) - Check your site structured, like schema.org  
+* [Google trends](https://www.google.com/trends/) - Discover the global trend topics from google
 * [WebPagetest](http://www.webpagetest.org/) - Test your website performance  
 * [Loader.io](https://loader.io/) - Cloud-based - Load testing  
 * [Page speed test by Google](https://developers.google.com/speed/pagespeed/insights/?hl&#x3D;pt-BR)  ![brazilian flag][br]
@@ -36,7 +31,6 @@
     
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
-* [Indicate paginated content](https://support.google.com/webmasters/answer/1663744) - How to use rel&#x3D;next and rel&#x3D;prev on your pages  
 * [Schema.org full list documentation](http://schema.org/docs/full.html) - Full list of recipes from schema.org  
 * [Diretrizes para webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters  
 * [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook  
