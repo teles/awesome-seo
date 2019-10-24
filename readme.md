@@ -47,6 +47,7 @@
 * [Sitelinks search box](https://developers.google.com/structured-data/slsb-overview) - Everything you want to know about the search box
 * [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster
 * [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website's loads faster
+* [https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) - Front-End Performance Checklist 2019
 
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
