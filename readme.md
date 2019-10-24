@@ -50,6 +50,7 @@
 
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
+* [Dynamic Rendering - is this really an SEO silver bullet?](https://www.slideshare.net/goralewicz/dynamic-rendering-is-this-really-an-seo-silver-bullet) - Presentation on SMX West about dynamic rendering AKA prerender for SEO
 
 ## License
 
