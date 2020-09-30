@@ -29,6 +29,7 @@
 * [SEO Assistant Chrome Extension](https://chrome.google.com/webstore/detail/galileo-seo-assistant/jmehfdipeccfhbfbmkfpikgmfpamlalf) - SEO extension for checking on page elements.
 * [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
 * [GT Metrix](https://gtmetrix.com/) - Measure your site's Page Load Time, Total Page Size and Total # of Requests
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry leading website crawler, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
