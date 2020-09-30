@@ -33,6 +33,7 @@
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google  
 * [SEO Assistant Chrome Extension](https://chrome.google.com/webstore/detail/galileo-seo-assistant/jmehfdipeccfhbfbmkfpikgmfpamlalf) - SEO extension for checking on page elements.
 * [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
+* [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry leading website crawler for Windows, MacOS and Ubuntu, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.
     
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps  
