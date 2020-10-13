@@ -40,7 +40,7 @@
 * [JSON-LD Schema Markup Generator for SEO](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD instead of inline.  Can be used with GTM or anywhere on the page.
 
 ## Articles
-* [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/) 
+* [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) 
 * [How Online Reviews Impact Local SEO and Why They Matter to Your Bottom Line](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line)
 * [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist)
 * [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations/)
