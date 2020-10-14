@@ -38,6 +38,7 @@
 * [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook
 * [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)
 * [JSON-LD Schema Markup Generator for SEO](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD instead of inline.  Can be used with GTM or anywhere on the page.
+* [Core Web Vitals](https://web.dev/vitals/) - Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.
 
 ## Articles
 * [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/) 
