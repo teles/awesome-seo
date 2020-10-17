@@ -30,6 +30,9 @@
 * [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
 * [GT Metrix](https://gtmetrix.com/) - Measure your site's Page Load Time, Total Page Size and Total # of Requests
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry leading website crawler, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.
+* [Raven Tools](https://raventools.com/) - a technical SEO focused software program that focuses on site audits, rank tracking and reporting.
+* [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/) - a popular WordPress plugin designed to help webmasters optimize their WordPress websites for search engines.
+* [Ubersuggest](https://ubersuggest.com/) - a free SEO tool that specializes in generating new keyword ideas.
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
@@ -50,6 +53,7 @@
 * [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster
 * [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website's loads faster
 * [https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) - Front-End Performance Checklist 2019
+* [The Definitive Guide To SEO In 2020](https://backlinko.com/seo-this-year)
 
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
