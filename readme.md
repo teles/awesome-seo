@@ -17,7 +17,7 @@
 * [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site
 * [ContentStudio](https://app.contentstudio.io) - Discovery niche-relevant and engaging content and have it shared on your social media channels.
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton
-* [Open graph debugger](https://developers.facebook.com/tools/debug/og/object?) - Open graph online debugger
+* [Open Graph debugger](https://developers.facebook.com/tools/debug/) - Open graph online debugger
 * [Keywordtool.io](http://keywordtool.io/) - Keyword searching online tool for google, youtube, appstore and bing
 * [Moz seo toolbar](https://moz.com/tools/seo-toolbar) - SEO addon with many funcionalities
 * [Complete List of HTML Meta Tags](https://gist.github.com/whitingx/3840905)
