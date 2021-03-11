@@ -17,7 +17,7 @@
 * [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site
 * [ContentStudio](https://app.contentstudio.io) - Discovery niche-relevant and engaging content and have it shared on your social media channels.
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton
-* [Open graph debugger](https://developers.facebook.com/tools/debug/og/object?) - Open graph online debugger
+* [Open Graph debugger](https://developers.facebook.com/tools/debug/) - Open graph online debugger
 * [Keywordtool.io](http://keywordtool.io/) - Keyword searching online tool for google, youtube, appstore and bing
 * [Moz seo toolbar](https://moz.com/tools/seo-toolbar) - SEO addon with many funcionalities
 * [Complete List of HTML Meta Tags](https://gist.github.com/whitingx/3840905)
@@ -38,6 +38,7 @@
 * [Open graph protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook
 * [Enabling Rich Snippets for Products](https://developers.google.com/structured-data/rich-snippets/products?hl&#x3D;en&amp;rd&#x3D;1)
 * [JSON-LD Schema Markup Generator for SEO](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD instead of inline.  Can be used with GTM or anywhere on the page.
+* [Core Web Vitals](https://web.dev/vitals/) - Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.
 
 ## Articles
 * [15 Awesome SEO Tools to Spy on Your Competitors](http://blog.mention.com/competitor-seo-tools/) 
@@ -49,6 +50,7 @@
 * [Understanding critical css](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) - Technical article about critical css and how to make your site faster
 * [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website's loads faster
 * [https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) - Front-End Performance Checklist 2019
+* [https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications/20766253#20766253](https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications/20766253#20766253) - How Do Search Engines Deal with AngularJS Applications?   
 
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
