@@ -27,6 +27,7 @@
 * [Page speed test by Google](https://developers.google.com/speed/pagespeed/insights/?hl&#x3D;pt-BR)  ![brazilian flag][br]
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google
 * [SEO Assistant Chrome Extension](https://chrome.google.com/webstore/detail/galileo-seo-assistant/jmehfdipeccfhbfbmkfpikgmfpamlalf) - SEO extension for checking on page elements.
+[Faq schema generator](https://foxmaya.com/tools/faq-schema-generator) - Generate FAQ structured data instantly, and improve your click-through-rate.
 * [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
 * [GT Metrix](https://gtmetrix.com/) - Measure your site's Page Load Time, Total Page Size and Total # of Requests
 * [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry leading website crawler, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits.
