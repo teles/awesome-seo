@@ -10,7 +10,7 @@
 ## Tools/Ferramentas
 * [HTML5 outliner](https://gsnedders.html5.org/outliner/) - Check the header structure for your website
 * [Woorank](https://www.woorank.com/pt/) - Test your website according to more than 70 criteria  ![brazilian flag][br]
-* [Google structured data test tool](https://developers.google.com/structured-data/testing-tool/) - Test your microdata markup and see examples
+* [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples
 * [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter
 * [Similar Web](http://www.similarweb.com/) - Discover your world rank and get information about traffic, referrals, and so on
 * [Sem Rush](http://www.semrush.com/) - Complete tool to analyse website keywords
