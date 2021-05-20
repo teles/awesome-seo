@@ -57,6 +57,7 @@
 * [https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) - Front-End Performance Checklist 2019
 * [https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications/20766253#20766253](https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications/20766253#20766253) - How Do Search Engines Deal with AngularJS Applications? 
 * [The Definitive Guide To SEO In 2020](https://backlinko.com/seo-this-year)
+* [SEO Hidden Gem: How do you find out which questions your site ranks for?](https://thospfuller.com/2021/04/19/seo-how-do-you-find-out-which-keywords-your-site-ranks-for/)
 
 ## eBooks / Downloads
 * [eBook O Guia Completo de SEO em 2015 e além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in portuguese  ![brazilian flag][br]
