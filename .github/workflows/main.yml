@@ -3,9 +3,9 @@ on: [push]
 jobs:
   parse_to_bookmarks:
     runs-on: ubuntu-latest
-    name: Export README to json, csv and bookmarks
+    name: Export README to bookmarks
     steps:
         - uses: teles/awesome-parser-action@v0.4.2
           with:
-            input: README.md
+            input: readme.md
             output: dist/bookmarks.html
