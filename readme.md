@@ -35,6 +35,7 @@
 * [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/) - a popular WordPress plugin designed to help webmasters optimize their WordPress websites for search engines.
 * [Ubersuggest](https://ubersuggest.com/) - a free SEO tool that specializes in generating new keyword ideas.
 * [Screpy](https://screpy.com) - Screpy is a site analyzer and monitoring tool. Its powered by Google Lighthouse.
+* [SEOZoom](https://www.seozoom.co.uk/) - SEOZoom is a complete suite: it analyzes, monitors, compares and enhances your website.
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
