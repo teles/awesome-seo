@@ -19,6 +19,7 @@
 * [Buzzsumo app](https://app.buzzsumo.com) - Analyze what content performs best for any topic or competiton
 * [Open Graph debugger](https://developers.facebook.com/tools/debug/) - Open graph online debugger
 * [Keywordtool.io](http://keywordtool.io/) - Keyword searching online tool for google, youtube, appstore and bing
+* [Keyword.com](https://keyword.com/) - Accurate keyword rank tracking software with daily updates
 * [Moz seo toolbar](https://moz.com/tools/seo-toolbar) - SEO addon with many funcionalities
 * [Complete List of HTML Meta Tags](https://gist.github.com/whitingx/3840905)
 * [Google trends](https://www.google.com/trends/) - Discover the global trend topics from google
@@ -35,6 +36,7 @@
 * [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/) - a popular WordPress plugin designed to help webmasters optimize their WordPress websites for search engines.
 * [Ubersuggest](https://ubersuggest.com/) - a free SEO tool that specializes in generating new keyword ideas.
 * [Screpy](https://screpy.com) - Screpy is a site analyzer and monitoring tool. Its powered by Google Lighthouse.
+* [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools.
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
@@ -46,7 +48,8 @@
 * [Core Web Vitals](https://web.dev/vitals/) - Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.
 
 ## Articles
-* [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) 
+* [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/)
+* [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
 * [How Online Reviews Impact Local SEO and Why They Matter to Your Bottom Line](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line)
 * [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist)
 * [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations/)
