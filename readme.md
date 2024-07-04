@@ -37,6 +37,7 @@
 * [Ubersuggest](https://ubersuggest.com/) - a free SEO tool that specializes in generating new keyword ideas.
 * [Screpy](https://screpy.com) - Screpy is a site analyzer and monitoring tool. Its powered by Google Lighthouse.
 * [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, monitoring and reporting tools.
+* [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers. 
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
