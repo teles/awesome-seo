@@ -1,0 +1,11 @@
+on: [push]
+
+jobs:
+  parse_to_bookmarks:
+    runs-on: ubuntu-latest
+    name: Export README to json, csv, and bookmarks
+    steps:
+        - uses: teles/readme-converter-action@v0.4.2
+          with:
+            input: README.md
+            output: dist/bookmarks.html
