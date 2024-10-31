@@ -1,5 +1,4 @@
-# Awesome SEO Tools
-
+![image](https://github.com/user-attachments/assets/c02b8746-98a8-4875-a4ec-ebd220bdc355)
 
 > A curated list of SEO tools!
 
