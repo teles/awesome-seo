@@ -11,12 +11,16 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [Serplux](https://serplux.com/) - AI Growth Agents to Boost Traffic, Rankings & Sales - 24/7
+- 
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [Serplux](https://serplux.com/) - Provide 400+ Free AI Tools to boost Social Media and Content
+- 
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
@@ -30,6 +34,8 @@
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords.
 - [SimilarWeb](http://www.similarweb.com/) - Analyzes website traffic and competition.
+- [Serplux](https://serplux.com/) - AI Growth Agents to Boost Traffic, Rankings & Sales - 24/7
+- 
 
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google.
