@@ -19,7 +19,7 @@ export type SortBy = 'name' | 'category';
 export interface AppState {
   tools: Tool[];
   searchQuery: string;
-  selectedCategory: string;
+  selectedCategory: string[];
   sortBy: SortBy;
   loading: boolean;
 }
