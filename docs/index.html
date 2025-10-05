@@ -250,69 +250,7 @@
         </footer>
     </div>
 
-    <script>
-        function awesomeSEO() {
-            return {
-                tools: [],
-                searchQuery: '',
-                selectedCategory: '',
-                sortBy: 'name',
-                loading: true,
-
-                async loadData() {
-                    try {
-                        const response = await fetch('awesome.json');
-                        const data = await response.json();
-                        this.tools = data.tools || [];
-                        this.loading = false;
-                    } catch (error) {
-                        console.error('Error loading data:', error);
-                        this.loading = false;
-                    }
-                },
-
-                get categories() {
-                    const uniqueCategories = [...new Set(this.tools.map(tool => tool.category))];
-                    return uniqueCategories.sort();
-                },
-
-                get filteredTools() {
-                    let filtered = this.tools;
-
-                    // Filter by search query
-                    if (this.searchQuery) {
-                        const query = this.searchQuery.toLowerCase();
-                        filtered = filtered.filter(tool => 
-                            tool.name.toLowerCase().includes(query) || 
-                            tool.description.toLowerCase().includes(query)
-                        );
-                    }
-
-                    // Filter by category
-                    if (this.selectedCategory) {
-                        filtered = filtered.filter(tool => tool.category === this.selectedCategory);
-                    }
-
-                    // Sort
-                    if (this.sortBy === 'name') {
-                        filtered.sort((a, b) => a.name.localeCompare(b.name));
-                    } else if (this.sortBy === 'category') {
-                        filtered.sort((a, b) => a.category.localeCompare(b.category));
-                    }
-
-                    return filtered;
-                },
-
-                async copyToClipboard(text) {
-                    try {
-                        await navigator.clipboard.writeText(text);
-                        // Could add a toast notification here
-                    } catch (err) {
-                        console.error('Failed to copy text: ', err);
-                    }
-                }
-            }
-        }
-    </script>
+    <!-- Awesome SEO TypeScript Bundle -->
+    <script src="awesome-seo.js"></script>
 </body>
 </html>
