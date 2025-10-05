@@ -1,8 +1,8 @@
 {
   "title": "Awesome SEO",
   "description": "A curated list of SEO tools",
-  "lastUpdated": "2025-10-05T15:40:15.256Z",
-  "totalTools": 28,
+  "lastUpdated": "2025-10-05T21:36:16.740Z",
+  "totalTools": 27,
   "categories": [
     "Analysis and Site Auditing",
     "Content and Social Media",
@@ -155,12 +155,6 @@
       "url": "http://www.similarweb.com/",
       "description": "Discover your world rank and get information about traffic and referrals.",
       "category": "Content and Social Media"
-    },
-    {
-      "name": "SimilarWeb",
-      "url": "http://www.similarweb.com/",
-      "description": "Analyzes website traffic and competition.",
-      "category": "Keyword and Competitor Research"
     },
     {
       "name": "Ubersuggest",
