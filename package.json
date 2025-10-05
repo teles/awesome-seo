@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "A curated list of SEO links.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm test && tsc && webpack --mode=production",
+    "dev": "webpack --mode=development --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "serve": "python3 -m http.server 8000 --directory docs",
+    "lint": "eslint src/ --ext .ts",
+    "lint:fix": "eslint src/ --ext .ts --fix"
   },
   "repository": {
     "type": "git",
@@ -22,5 +29,18 @@
   "homepage": "https://github.com/teles/awesome-seo#readme",
   "dependencies": {
     "handlebars": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-loader": "^9.4.0",
+    "typescript": "^5.0.0",
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0"
   }
 }
