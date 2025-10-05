@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome SEO</title>
+    <meta name="description" content="A curated list of SEO tools with interactive filtering and search">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Alpine.js -->
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- SEO Meta Tags -->
+    <meta property="og:title" content="Awesome SEO">
+    <meta property="og:description" content="A curated list of SEO tools with interactive filtering and search">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://teles.github.io/awesome-seo">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Awesome SEO">
+    <meta name="twitter:description" content="A curated list of SEO tools with interactive filtering and search">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔍</text></svg>">
+    
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'sans': ['Inter', 'ui-sans-serif', 'system-ui'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 font-sans antialiased">
+    <div id="app" x-data="awesomeSEO()" x-init="loadData()">
+        <!-- Hero Section -->
+        <section class="relative bg-gradient-to-br from-blue-600 via-purple-600 to-blue-800 overflow-hidden">
+            <!-- Background decoration -->
+            <div class="absolute inset-0 bg-black/20"></div>
+            <div class="absolute -top-40 -right-32 w-96 h-96 rounded-full bg-white/10 blur-3xl"></div>
+            <div class="absolute -bottom-40 -left-32 w-96 h-96 rounded-full bg-white/10 blur-3xl"></div>
+            
+            <div class="relative max-w-7xl mx-auto px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
+                <div class="text-center">
+                    <!-- Icon -->
+                    <div class="flex justify-center mb-8">
+                        <div class="p-4 bg-white/20 backdrop-blur-sm rounded-2xl border border-white/30">
+                            <span class="text-6xl">🔍</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Title -->
+                    <h1 class="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
+                        Awesome SEO
+                    </h1>
+                    
+                    <!-- Subtitle -->
+                    <p class="text-xl md:text-2xl text-blue-100 mb-12 max-w-3xl mx-auto leading-relaxed">
+                        A curated list of SEO tools with interactive filtering and search
+                    </p>
+                    
+                    <!-- CTA Buttons -->
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
+                        <!-- GitHub Button -->
+                        <a href="https://github.com/teles/awesome-seo" 
+                           class="inline-flex items-center gap-3 px-8 py-4 bg-white text-gray-900 font-semibold rounded-xl hover:bg-gray-50 transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl">
+                            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z" clip-rule="evenodd"></path>
+                            </svg>
+                            View on GitHub
+                        </a>
+                        
+                        <!-- Tools Counter Badge -->
+                        <div class="inline-flex items-center gap-2 px-6 py-3 bg-white/20 backdrop-blur-sm text-white font-medium rounded-xl border border-white/30">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                            <span x-text="filteredTools.length === 1 ? '1 tool' : `${filteredTools.length} tools`"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search and Filters Section -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <!-- Search & Filter Card -->
+            <div class="bg-white rounded-2xl shadow-lg border border-gray-100 p-8 mb-12">
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    <!-- Search Input -->
+                    <div class="lg:col-span-2">
+                        <label for="searchInput" class="block text-sm font-semibold text-gray-700 mb-3">
+                            Search tools
+                        </label>
+                        <div class="relative">
+                            <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                                <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                </svg>
+                            </div>
+                            <input 
+                                id="searchInput"
+                                type="text" 
+                                x-model="searchQuery"
+                                placeholder="Search by name or description..."
+                                class="w-full pl-12 pr-4 py-4 bg-gray-50 border border-gray-200 rounded-xl text-gray-900 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200"
+                            />
+                        </div>
+                    </div>
+                    
+                    <!-- Category Filter -->
+                    <div>
+                        <label for="categorySelect" class="block text-sm font-semibold text-gray-700 mb-3">
+                            Filter by category
+                        </label>
+                        <div class="relative">
+                            <select 
+                                id="categorySelect"
+                                x-model="selectedCategory"
+                                class="w-full px-4 py-4 bg-gray-50 border border-gray-200 rounded-xl text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 appearance-none cursor-pointer"
+                            >
+                                <option value="">All categories</option>
+                                <template x-for="category in categories" :key="category">
+                                    <option :value="category" x-text="category"></option>
+                                </template>
+                            </select>
+                            <div class="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-none">
+                                <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Sort Options -->
+                <div class="mt-8 flex flex-wrap gap-3">
+                    <span class="text-sm font-semibold text-gray-700">Sort by:</span>
+                    <button 
+                        @click="sortBy = 'name'"
+                        :class="sortBy === 'name' ? 'bg-blue-500 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'"
+                        class="px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200"
+                    >
+                        Name
+                    </button>
+                    <button 
+                        @click="sortBy = 'category'"
+                        :class="sortBy === 'category' ? 'bg-blue-500 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'"
+                        class="px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200"
+                    >
+                        Category
+                    </button>
+                </div>
+            </div>
+
+            <!-- Tools Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <template x-for="tool in filteredTools" :key="tool.name">
+                    <article class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 hover:-translate-y-1 border border-gray-100 overflow-hidden">
+                        <div class="p-6">
+                            <!-- Category Badge -->
+                            <div class="mb-4">
+                                <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800" x-text="tool.category"></span>
+                            </div>
+                            
+                            <!-- Tool Name -->
+                            <h3 class="text-xl font-bold text-gray-900 mb-2" x-text="tool.name"></h3>
+                            
+                            <!-- Description -->
+                            <p class="text-gray-600 mb-4 leading-relaxed" x-text="tool.description"></p>
+                            
+                            <!-- Action Buttons -->
+                            <div class="flex gap-3">
+                                <a :href="tool.url" 
+                                   target="_blank" 
+                                   rel="noopener noreferrer"
+                                   class="flex-1 inline-flex items-center justify-center px-4 py-2 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors duration-200">
+                                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                                    </svg>
+                                    Visit
+                                </a>
+                                <button 
+                                    @click="copyToClipboard(tool.url)"
+                                    class="px-3 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors duration-200"
+                                    title="Copy URL">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </article>
+                </template>
+            </div>
+
+            <!-- Loading State -->
+            <div x-show="loading" class="text-center py-12">
+                <div class="inline-flex items-center justify-center w-12 h-12 bg-blue-100 rounded-full mb-4">
+                    <svg class="w-6 h-6 text-blue-600 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+                    </svg>
+                </div>
+                <p class="text-gray-600">Loading awesome SEO tools...</p>
+            </div>
+
+            <!-- No Results -->
+            <div x-show="!loading && filteredTools.length === 0" class="text-center py-12">
+                <div class="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <svg class="w-8 h-8 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                    </svg>
+                </div>
+                <h3 class="text-lg font-semibold text-gray-900 mb-2">No tools found</h3>
+                <p class="text-gray-600 mb-4">Try adjusting your search or filter criteria.</p>
+                <button 
+                    @click="searchQuery = ''; selectedCategory = ''"
+                    class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200">
+                    Clear filters
+                </button>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="bg-gray-900 text-white py-12">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center">
+                    <p class="text-gray-300 mb-4">
+                        Made with ❤️ by 
+                        <a href="https://github.com/teles" class="text-blue-400 hover:text-blue-300 transition-colors duration-200">Jota Teles</a>
+                    </p>
+                    <p class="text-sm text-gray-400">
+                        Data automatically synchronized from the 
+                        <a href="https://github.com/teles/awesome-seo" class="text-blue-400 hover:text-blue-300 transition-colors duration-200">main repository</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        function awesomeSEO() {
+            return {
+                tools: [],
+                searchQuery: '',
+                selectedCategory: '',
+                sortBy: 'name',
+                loading: true,
+
+                async loadData() {
+                    try {
+                        const response = await fetch('awesome.json');
+                        const data = await response.json();
+                        this.tools = data.tools || [];
+                        this.loading = false;
+                    } catch (error) {
+                        console.error('Error loading data:', error);
+                        this.loading = false;
+                    }
+                },
+
+                get categories() {
+                    const uniqueCategories = [...new Set(this.tools.map(tool => tool.category))];
+                    return uniqueCategories.sort();
+                },
+
+                get filteredTools() {
+                    let filtered = this.tools;
+
+                    // Filter by search query
+                    if (this.searchQuery) {
+                        const query = this.searchQuery.toLowerCase();
+                        filtered = filtered.filter(tool => 
+                            tool.name.toLowerCase().includes(query) || 
+                            tool.description.toLowerCase().includes(query)
+                        );
+                    }
+
+                    // Filter by category
+                    if (this.selectedCategory) {
+                        filtered = filtered.filter(tool => tool.category === this.selectedCategory);
+                    }
+
+                    // Sort
+                    if (this.sortBy === 'name') {
+                        filtered.sort((a, b) => a.name.localeCompare(b.name));
+                    } else if (this.sortBy === 'category') {
+                        filtered.sort((a, b) => a.category.localeCompare(b.category));
+                    }
+
+                    return filtered;
+                },
+
+                async copyToClipboard(text) {
+                    try {
+                        await navigator.clipboard.writeText(text);
+                        // Could add a toast notification here
+                    } catch (err) {
+                        console.error('Failed to copy text: ', err);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>
