@@ -2,6 +2,7 @@ import { AwesomeSEOApp } from './AwesomeSEOApp';
 import { DataLoader } from './services/DataLoader';
 import { ClipboardService } from './services/ClipboardService';
 import { CategoryExtractor } from './services/CategoryExtractor';
+import { Tool, SortBy } from './types';
 
 // Export types for external use
 export * from './types';
@@ -35,49 +36,48 @@ window.AwesomeSEO = {
 window.awesomeSEO = function() {
   const app = createAwesomeSEOApp();
   
-  return {
-    tools: [],
+  const data = {
+    tools: [] as Tool[],
     searchQuery: '',
     selectedCategory: '',
-    sortBy: 'name',
+    sortBy: 'name' as SortBy,
     loading: true,
+    categories: [] as string[],
+    filteredTools: [] as Tool[],
 
     async loadData() {
       try {
         await app.loadData();
-        this.syncWithApp();
+        data.syncWithApp();
+        data.updateFilteredData();
       } catch (error) {
         console.error('Error loading data:', error);
-        this.loading = false;
+        data.loading = false;
       }
-    },
-
-    get categories() {
-      return app.getCategories();
-    },
-
-    get filteredTools() {
-      return app.getFilteredTools();
     },
 
     setSearchQuery(query: string) {
       app.setSearchQuery(query);
-      this.searchQuery = query;
+      data.searchQuery = query;
+      data.updateFilteredData();
     },
 
     setSelectedCategory(category: string) {
       app.setSelectedCategory(category);
-      this.selectedCategory = category;
+      data.selectedCategory = category;
+      data.updateFilteredData();
     },
 
     setSortBy(sortBy: 'name' | 'category') {
       app.setSortBy(sortBy);
-      this.sortBy = sortBy;
+      data.sortBy = sortBy;
+      data.updateFilteredData();
     },
 
     clearFilters() {
       app.clearFilters();
-      this.syncWithApp();
+      data.syncWithApp();
+      data.updateFilteredData();
     },
 
     async copyToClipboard(text: string) {
@@ -88,13 +88,20 @@ window.awesomeSEO = function() {
       }
     },
 
+    updateFilteredData() {
+      data.categories = app.getCategories();
+      data.filteredTools = app.getFilteredTools();
+    },
+
     syncWithApp() {
       const state = app.getState();
-      this.tools = state.tools;
-      this.searchQuery = state.searchQuery;
-      this.selectedCategory = state.selectedCategory;
-      this.sortBy = state.sortBy;
-      this.loading = state.loading;
+      data.tools = state.tools;
+      data.searchQuery = state.searchQuery;
+      data.selectedCategory = state.selectedCategory;
+      data.sortBy = state.sortBy;
+      data.loading = state.loading;
     }
   };
+  
+  return data;
 };
