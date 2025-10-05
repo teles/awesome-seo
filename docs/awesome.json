@@ -1,0 +1,184 @@
+{
+  "title": "Awesome SEO",
+  "description": "A curated list of SEO tools",
+  "lastUpdated": "2025-10-05T13:51:24.924Z",
+  "totalTools": 28,
+  "categories": [
+    "Analysis and Site Auditing",
+    "Content and Social Media",
+    "Documentation and Guidelines",
+    "Keyword and Competitor Research",
+    "Performance and Speed",
+    "Rich Snippets and Structured Data"
+  ],
+  "tools": [
+    {
+      "name": "AHrefs",
+      "url": "https://ahrefs.com",
+      "description": "Backlinks searcher and SEO reporter.",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "Applinks Documentation",
+      "url": "http://applinks.org/documentation/",
+      "description": "Use meta tags to create deep links for your apps.",
+      "category": "Documentation and Guidelines"
+    },
+    {
+      "name": "Buzzsumo",
+      "url": "https://app.buzzsumo.com",
+      "description": "Analyze which content performs best for any topic or competition.",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "ContentStudio",
+      "url": "https://app.contentstudio.io",
+      "description": "Discover niche-relevant content and share it on your social media channels.",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "Diretrizes para Webmasters",
+      "url": "https://support.google.com/webmasters/answer/35769",
+      "description": "Google guidelines for webmasters.",
+      "category": "Documentation and Guidelines"
+    },
+    {
+      "name": "FAQ Schema Generator",
+      "url": "https://foxmaya.com/tools/faq-schema-generator",
+      "description": "Instantly generate FAQ structured data to improve your click-through rate.",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Google Mobile Friendly Test",
+      "url": "https://www.google.com/webmasters/tools/mobile-friendly",
+      "description": "Test your site’s mobile compatibility according to Google.",
+      "category": "Performance and Speed"
+    },
+    {
+      "name": "Google PageSpeed Insights",
+      "url": "https://developers.google.com/speed/pagespeed/insights/",
+      "description": "Test your website's performance and get optimization tips.",
+      "category": "Performance and Speed"
+    },
+    {
+      "name": "Google Rich Results Test",
+      "url": "https://search.google.com/test/rich-results",
+      "description": "Test your microdata markup and see examples.",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "GTMetrix",
+      "url": "https://gtmetrix.com/",
+      "description": "Measure your site’s Page Load Time, Total Page Size, and Total Requests.",
+      "category": "Performance and Speed"
+    },
+    {
+      "name": "JSON-LD Schema Markup Generator",
+      "url": "https://www.jamesdflynn.com/json-ld-schema-generator/",
+      "description": "A utility to build schema markup using JSON-LD.",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Keywordtool.io",
+      "url": "http://keywordtool.io/",
+      "description": "Keyword search tool for Google, YouTube, App Store, and Bing.",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "Loader.io",
+      "url": "https://loader.io/",
+      "description": "Cloud-based load testing.",
+      "category": "Performance and Speed"
+    },
+    {
+      "name": "Open Graph Debugger",
+      "url": "https://developers.facebook.com/tools/debug/",
+      "description": "Debug Open Graph metadata.",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Open Graph Protocol",
+      "url": "http://opengraphprotocol.org/",
+      "description": "Meta tags protocol used by Facebook.",
+      "category": "Documentation and Guidelines"
+    },
+    {
+      "name": "Open Link Profiler",
+      "url": "http://openlinkprofiler.org/",
+      "description": "Discover who is creating backlinks to your site.",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "OptimalUX",
+      "url": "https://optimalux.com/seo-patching",
+      "description": "Real-time SEO patching and A/B testing for flawless web experiments.",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Raven Tools",
+      "url": "https://raventools.com/",
+      "description": "SEO software focused on site audits and rank tracking.",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Schema.org Full List Documentation",
+      "url": "http://schema.org/docs/full.html",
+      "description": "Full list of schema.org recipes for implementing structured data.",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Screaming Frog SEO Spider",
+      "url": "https://www.screamingfrog.co.uk/seo-spider/",
+      "description": "Industry-leading website crawler for technical SEO audits.",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "SearchAttention",
+      "url": "https://searchattention.com",
+      "description": "Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "SemRush",
+      "url": "http://www.semrush.com/",
+      "description": "Comprehensive tool for analyzing website keywords.",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "Seobility",
+      "url": "https://www.seobility.net/en/",
+      "description": "All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "SimilarWeb",
+      "url": "http://www.similarweb.com/",
+      "description": "Discover your world rank and get information about traffic and referrals.",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "SimilarWeb",
+      "url": "http://www.similarweb.com/",
+      "description": "Analyzes website traffic and competition.",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "Ubersuggest",
+      "url": "https://ubersuggest.com/",
+      "description": "Free SEO tool specializing in generating keyword ideas.",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "WebPageTest",
+      "url": "http://www.webpagetest.org/",
+      "description": "Test your website’s performance and loading speed.",
+      "category": "Performance and Speed"
+    },
+    {
+      "name": "Woorank",
+      "url": "https://www.woorank.com/pt/",
+      "description": "Tests your website according to more than 70 SEO criteria.",
+      "category": "Analysis and Site Auditing"
+    }
+  ]
+}
