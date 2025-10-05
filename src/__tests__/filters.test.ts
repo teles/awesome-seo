@@ -64,6 +64,7 @@ describe('Filters', () => {
     });
 
     it('should throw error for invalid tools input', () => {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       expect(() => searchFilter.filter(null as any, 'test')).toThrow('Tools must be an array');
     });
   });
@@ -75,15 +76,31 @@ describe('Filters', () => {
       categoryFilter = new CategoryFilter();
     });
 
-    it('should return all tools when category is empty', () => {
+    it('should return all tools when category is empty string', () => {
       const result = categoryFilter.filter(mockTools, '');
       expect(result).toEqual(mockTools);
     });
 
-    it('should filter tools by category', () => {
+    it('should return all tools when category array is empty', () => {
+      const result = categoryFilter.filter(mockTools, []);
+      expect(result).toEqual(mockTools);
+    });
+
+    it('should filter tools by single category (string)', () => {
       const result = categoryFilter.filter(mockTools, 'Keyword and Competitor Research');
       expect(result).toHaveLength(2);
       expect(result.every(tool => tool.category === 'Keyword and Competitor Research')).toBe(true);
+    });
+
+    it('should filter tools by single category (array)', () => {
+      const result = categoryFilter.filter(mockTools, ['Keyword and Competitor Research']);
+      expect(result).toHaveLength(2);
+      expect(result.every(tool => tool.category === 'Keyword and Competitor Research')).toBe(true);
+    });
+
+    it('should filter tools by multiple categories', () => {
+      const result = categoryFilter.filter(mockTools, ['Keyword and Competitor Research', 'Analysis and Site Auditing']);
+      expect(result).toHaveLength(3);
     });
 
     it('should return empty array when category not found', () => {
@@ -91,7 +108,13 @@ describe('Filters', () => {
       expect(result).toHaveLength(0);
     });
 
+    it('should return empty array when none of the categories match', () => {
+      const result = categoryFilter.filter(mockTools, ['Nonexistent Category', 'Another Nonexistent']);
+      expect(result).toHaveLength(0);
+    });
+
     it('should throw error for invalid tools input', () => {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       expect(() => categoryFilter.filter(null as any, 'test')).toThrow('Tools must be an array');
     });
   });
