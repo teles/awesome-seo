@@ -1,7 +1,11 @@
 {
   "title": "Awesome SEO",
   "description": "A curated list of SEO tools",
+<<<<<<< Updated upstream
   "lastUpdated": "2025-10-05T13:51:24.924Z",
+=======
+  "lastUpdated": "2025-10-05T13:51:46.379Z",
+>>>>>>> Stashed changes
   "totalTools": 28,
   "categories": [
     "Analysis and Site Auditing",
