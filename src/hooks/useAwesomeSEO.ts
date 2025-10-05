@@ -17,7 +17,7 @@ export function useAwesomeSEO(apiUrl?: string) {
 
   const [tools, setTools] = useState<Tool[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState<string[]>([]);
   const [sortBy, setSortBy] = useState<SortBy>('name');
   const [loading, setLoading] = useState(true);
 
@@ -41,7 +41,7 @@ export function useAwesomeSEO(apiUrl?: string) {
   // Clear filters
   const clearFilters = useCallback(() => {
     setSearchQuery('');
-    setSelectedCategory('');
+    setSelectedCategory([]);
   }, []);
 
   // Copy to clipboard
