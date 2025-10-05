@@ -1,51 +1,51 @@
 name: Generate awesome.json
 
 on:
-    push:
-        branches: [main, feature/37-page]
-        paths:
-            - "README.md"
-    workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [main, feature/37-page]
+    paths:
+      - "README.md"
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
-    generate:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
-              with:
-                  token: ${{ secrets.GITHUB_TOKEN }}
-                  fetch-depth: 0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: "18"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
 
-            - name: Ensure docs directory exists
-              run: mkdir -p docs
+      - name: Ensure docs directory exists
+        run: mkdir -p docs
 
-            - name: Parse README and generate JSON
-              run: node parse-readme.js
+      - name: Parse README and generate JSON
+        run: node parse-readme.js
 
-            - name: Commit and push changes
-              run: |
-                  git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
-                  
-                  # Add the generated file
-                  git add docs/awesome.json
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
 
-                  # Check if there are changes to commit
-                  if git diff --staged --quiet; then
-                    echo "No changes to commit - awesome.json is up to date"
-                  else
-                    git commit -m "🤖 Auto-update awesome.json from README.md
+          # Add the generated file (force add since it might be in .gitignore)
+          git add -f docs/awesome.json
 
-                    This file was automatically generated from README.md"
-                    git push
-                    echo "Successfully updated awesome.json"
-                  fi
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit - awesome.json is up to date"
+          else
+            git commit -m "🤖 Auto-update awesome.json from README.md
+
+            This file was automatically generated from README.md"
+            git push
+            echo "Successfully updated awesome.json"
+          fi
