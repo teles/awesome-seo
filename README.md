@@ -22,7 +22,6 @@
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
-- [Sitelinks Search Box](https://developers.google.com/structured-data/slsb-overview) - Everything you want to know about the search box.
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
@@ -47,8 +46,7 @@
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
-- 🇧🇷 [Schema.org – Dando Significado ao Conteúdo na Internet](http://blog.popupdesign.com.br/schema-org-dando-significado-ao-conteudo-na-internet) - Blog post about schema.org implementation.
-- 🇬🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
+- 🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
 - 🇬🇧 [How Online Reviews Impact Local SEO](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line) - Explore how reviews affect local SEO.
 - 🇬🇧 [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist) - SEO checklist for ranking in Google.
