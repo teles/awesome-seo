@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome SEO</title>
+    <meta name="description" content="A curated list of SEO tools with interactive filtering and search">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Alpine.js -->
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <!-- Custom Configuration -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3b82f6',
+                        secondary: '#1e40af',
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- SEO Meta Tags -->
+    <meta property="og:title" content="Awesome SEO">
+    <meta property="og:description" content="A curated list of SEO tools with interactive filtering and search">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://teles.github.io/awesome-seo">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Awesome SEO">
+    <meta name="twitter:description" content="A curated list of SEO tools with interactive filtering and search">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔍</text></svg>">
+</head>
+<body class="bg-gray-50 font-sans">
+    <div id="app" x-data="awesomeSEO()" x-init="loadData()">
+        <!-- Header -->
+        <header class="bg-white shadow-sm border-b border-gray-200">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+                <div class="text-center">
+                    <div class="flex justify-center items-center mb-4">
+                        <span class="text-4xl mr-3">🔍</span>
+                        <h1 class="text-3xl font-bold text-gray-900">Awesome SEO</h1>
+                    </div>
+                    <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+                        A curated list of SEO tools with interactive filtering and search
+                    </p>
+                    <div class="mt-4 flex justify-center space-x-4">
+                        <a href="https://github.com/teles/awesome-seo" 
+                           class="inline-flex items-center px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                            <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M10 0C4.477 0 0 4.484 0 10.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0110 4.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0020 10.017C20 4.484 15.522 0 10 0z" clip-rule="evenodd"></path>
+                            </svg>
+                            GitHub
+                        </a>
+                        <span class="inline-flex items-center px-4 py-2 bg-blue-100 text-blue-800 rounded-lg">
+                            <span x-text="filteredTools.length"></span> tools
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Search and Filters -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="bg-white rounded-lg shadow-sm p-6 mb-8">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <!-- Search Input -->
+                    <div class="md:col-span-2">
+                        <label for="search" class="block text-sm font-medium text-gray-700 mb-2">
+                            Search tools
+                        </label>
+                        <div class="relative">
+                            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                                </svg>
+                            </div>
+                            <input 
+                                type="text" 
+                                id="search"
+                                x-model="searchQuery"
+                                placeholder="Search by name or description..."
+                                class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-primary focus:border-primary"
+                            >
+                        </div>
+                    </div>
+                    
+                    <!-- Category Filter -->
+                    <div>
+                        <label for="category" class="block text-sm font-medium text-gray-700 mb-2">
+                            Filter by category
+                        </label>
+                        <select 
+                            id="category"
+                            x-model="selectedCategory"
+                            class="block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-primary focus:border-primary"
+                        >
+                            <option value="">All Categories</option>
+                            <template x-for="category in allCategories" :key="category">
+                                <option :value="category" x-text="category"></option>
+                            </template>
+                        </select>
+                    </div>
+                </div>
+                
+                <!-- Sort Options -->
+                <div class="mt-4 flex flex-wrap gap-2">
+                    <span class="text-sm font-medium text-gray-700">Sort by:</span>
+                    <button 
+                        @click="sortBy = 'name'"
+                        :class="sortBy === 'name' ? 'bg-primary text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'"
+                        class="px-3 py-1 rounded-md text-sm transition-colors"
+                    >
+                        Name
+                    </button>
+                    <button 
+                        @click="sortBy = 'category'"
+                        :class="sortBy === 'category' ? 'bg-primary text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'"
+                        class="px-3 py-1 rounded-md text-sm transition-colors"
+                    >
+                        Category
+                    </button>
+                </div>
+            </div>
+
+            <!-- Tools Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <template x-for="tool in filteredTools" :key="tool.name">
+                    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6 hover:shadow-md transition-shadow">
+                        <div class="flex items-start justify-between mb-3">
+                            <h3 class="text-lg font-semibold text-gray-900" x-text="tool.name"></h3>
+                            <span class="text-xs px-2 py-1 bg-blue-100 text-blue-800 rounded-full" x-text="tool.category"></span>
+                        </div>
+                        <p class="text-gray-600 text-sm mb-4" x-text="tool.description"></p>
+                        <div class="flex items-center justify-between">
+                            <a 
+                                :href="tool.url" 
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="inline-flex items-center text-primary hover:text-secondary font-medium text-sm"
+                            >
+                                Visit tool
+                                <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                                </svg>
+                            </a>
+                            <button 
+                                @click="copyToClipboard(tool.url)"
+                                class="text-gray-400 hover:text-gray-600 transition-colors"
+                                title="Copy URL"
+                            >
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </template>
+            </div>
+
+            <!-- No Results -->
+            <div x-show="filteredTools.length === 0" class="text-center py-12">
+                <div class="text-6xl mb-4">🔍</div>
+                <h3 class="text-lg font-medium text-gray-900 mb-2">No tools found</h3>
+                <p class="text-gray-600">Try adjusting your search or filter criteria.</p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="bg-white border-t border-gray-200 mt-16">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+                <div class="text-center">
+                    <p class="text-gray-600">
+                        Made with ❤️ by 
+                        <a href="https://github.com/teles" class="text-primary hover:text-secondary">Jota Teles</a>
+                    </p>
+                    <p class="text-sm text-gray-500 mt-2">
+                        Data automatically synchronized from the 
+                        <a href="https://github.com/teles/awesome-seo" class="text-primary hover:text-secondary">main repository</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Loading State -->
+        <div x-show="loading" class="fixed inset-0 bg-gray-900 bg-opacity-50 flex items-center justify-center z-50">
+            <div class="bg-white rounded-lg p-6 flex items-center">
+                <svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-primary" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+                Loading awesome SEO tools...
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function awesomeSEO() {
+            return {
+                tools: [],
+                searchQuery: '',
+                selectedCategory: '',
+                sortBy: 'name',
+                loading: true,
+                allCategories: [],
+
+                async loadData() {
+                    console.log('🔍 Loading data...');
+                    try {
+                        const response = await fetch('./awesome.json');
+                        console.log('📡 Response status:', response.status);
+                        console.log('🌐 Response URL:', response.url);
+                        
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        
+                        const data = await response.json();
+                        console.log('📊 Data loaded:', data);
+                        console.log('🔧 Tools count:', data.tools ? data.tools.length : 0);
+                        
+                        this.tools = data.tools || [];
+                        console.log('✅ Tools assigned to component:', this.tools.length);
+                        
+                        // Extract categories and assign them
+                        const categories = [...new Set(this.tools.map(tool => tool.category))];
+                        this.allCategories = categories.sort();
+                        console.log('📂 Categories extracted:', this.allCategories);
+                        
+                        this.loading = false;
+                        
+                        // Force reactive update
+                        this.$nextTick(() => {
+                            console.log('🔄 Categories computed:', this.categories);
+                        });
+                    } catch (error) {
+                        console.error('❌ Error loading data:', error);
+                        this.loading = false;
+                        
+                        // Add fallback data for testing
+                        this.tools = [
+                            {
+                                name: "Test Tool 1",
+                                url: "https://example.com",
+                                description: "This is a test tool.",
+                                category: "Testing"
+                            },
+                            {
+                                name: "Test Tool 2", 
+                                url: "https://example.com",
+                                description: "Another test tool.",
+                                category: "Analysis"
+                            }
+                        ];
+                        console.log('🔧 Fallback data loaded:', this.tools.length);
+                        
+                        // Set fallback categories
+                        this.allCategories = ["Testing", "Analysis"];
+                    }
+                },
+
+                get categories() {
+                    const cats = [...new Set(this.tools.map(tool => tool.category))];
+                    console.log('📂 Categories computed:', cats);
+                    return cats.sort();
+                },
+
+                get filteredTools() {
+                    let filtered = this.tools;
+
+                    // Filter by search query
+                    if (this.searchQuery) {
+                        const query = this.searchQuery.toLowerCase();
+                        filtered = filtered.filter(tool => 
+                            tool.name.toLowerCase().includes(query) ||
+                            tool.description.toLowerCase().includes(query)
+                        );
+                    }
+
+                    // Filter by category
+                    if (this.selectedCategory) {
+                        filtered = filtered.filter(tool => tool.category === this.selectedCategory);
+                    }
+
+                    // Sort
+                    if (this.sortBy === 'name') {
+                        filtered.sort((a, b) => a.name.localeCompare(b.name));
+                    } else if (this.sortBy === 'category') {
+                        filtered.sort((a, b) => a.category.localeCompare(b.category));
+                    }
+
+                    return filtered;
+                },
+
+                async copyToClipboard(text) {
+                    try {
+                        await navigator.clipboard.writeText(text);
+                        // You could add a toast notification here
+                    } catch (err) {
+                        console.error('Failed to copy: ', err);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>
