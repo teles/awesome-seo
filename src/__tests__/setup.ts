@@ -1,3 +1,5 @@
+import '@testing-library/jest-dom';
+
 // Mock global objects for testing
 (global as any).fetch = jest.fn();
 
