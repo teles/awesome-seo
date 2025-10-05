@@ -2,18 +2,26 @@ import React from 'react';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { Github, CheckCircle2 } from 'lucide-react';
+import { DarkModeToggle } from './DarkModeToggle';
 
 interface HeroProps {
   toolsCount: number;
+  isDarkMode: boolean;
+  onToggleDarkMode: () => void;
 }
 
-export function Hero({ toolsCount }: HeroProps) {
+export function Hero({ toolsCount, isDarkMode, onToggleDarkMode }: HeroProps) {
   return (
-    <section className="relative bg-gradient-to-br from-blue-600 via-purple-600 to-blue-800 overflow-hidden">
+    <section className="relative bg-gradient-to-br from-blue-600 via-purple-600 to-blue-800 dark:from-gray-800 dark:via-gray-900 dark:to-black overflow-hidden transition-all duration-200">
       {/* Background decoration */}
       <div className="absolute inset-0 bg-black/20"></div>
       <div className="absolute -top-40 -right-32 w-96 h-96 rounded-full bg-white/10 blur-3xl"></div>
       <div className="absolute -bottom-40 -left-32 w-96 h-96 rounded-full bg-white/10 blur-3xl"></div>
+      
+      {/* Dark Mode Toggle */}
+      <div className="absolute top-6 right-6 z-10">
+        <DarkModeToggle isDarkMode={isDarkMode} onToggle={onToggleDarkMode} />
+      </div>
       
       <div className="relative max-w-7xl mx-auto px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
         <div className="text-center">

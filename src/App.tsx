@@ -1,5 +1,6 @@
 import React from 'react';
 import { useAwesomeSEO } from './hooks/useAwesomeSEO';
+import { useDarkMode } from './hooks/useDarkMode';
 import { Hero } from './components/Hero';
 import { SearchAndFilters } from './components/SearchAndFilters';
 import { ToolCard } from './components/ToolCard';
@@ -24,10 +25,16 @@ export function App() {
     removeToast,
   } = useAwesomeSEO();
 
+  const { isDarkMode, toggleDarkMode } = useDarkMode();
+
   return (
-    <div className="bg-gray-50 font-sans antialiased">
+    <div className="bg-gray-50 dark:bg-gray-900 font-sans antialiased min-h-screen transition-colors duration-200">
       {/* Hero Section */}
-      <Hero toolsCount={filteredTools.length} />
+      <Hero 
+        toolsCount={filteredTools.length} 
+        isDarkMode={isDarkMode}
+        onToggleDarkMode={toggleDarkMode}
+      />
 
       {/* Search and Filters Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
