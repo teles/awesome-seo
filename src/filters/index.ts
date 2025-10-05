@@ -28,13 +28,16 @@ export class SearchFilter extends BaseFilter {
 }
 
 export class CategoryFilter extends BaseFilter {
-  filter(tools: Tool[], selectedCategory: string): Tool[] {
+  filter(tools: Tool[], selectedCategories: string | string[]): Tool[] {
     this.validateTools(tools);
     
-    if (!selectedCategory || selectedCategory.trim() === '') {
+    // Support both string and string[] for backwards compatibility
+    const categories = Array.isArray(selectedCategories) ? selectedCategories : [selectedCategories];
+    
+    if (categories.length === 0 || (categories.length === 1 && !categories[0])) {
       return tools;
     }
     
-    return tools.filter(tool => tool.category === selectedCategory);
+    return tools.filter(tool => categories.includes(tool.category));
   }
 }

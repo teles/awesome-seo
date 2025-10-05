@@ -76,7 +76,7 @@ describe('AwesomeSEOApp', () => {
     });
 
     it('should filter by category', () => {
-      app.setSelectedCategory('Category 1');
+      app.setSelectedCategory(['Category 1']);
       const filtered = app.getFilteredTools();
       
       expect(filtered).toHaveLength(1);
@@ -93,13 +93,13 @@ describe('AwesomeSEOApp', () => {
 
     it('should clear filters', () => {
       app.setSearchQuery('test');
-      app.setSelectedCategory('Category 1');
+      app.setSelectedCategory(['Category 1']);
       
       app.clearFilters();
       
       const state = app.getState();
       expect(state.searchQuery).toBe('');
-      expect(state.selectedCategory).toBe('');
+      expect(state.selectedCategory).toEqual([]);
     });
   });
 
@@ -147,9 +147,9 @@ describe('AwesomeSEOApp', () => {
     });
 
     it('should update selected category', () => {
-      app.setSelectedCategory('new category');
+      app.setSelectedCategory(['new category']);
       
-      expect(app.getState().selectedCategory).toBe('new category');
+      expect(app.getState().selectedCategory).toEqual(['new category']);
     });
 
     it('should update sort by', () => {

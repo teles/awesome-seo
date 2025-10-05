@@ -11,7 +11,7 @@ export class AwesomeSEOApp {
   private state: AppState = {
     tools: [],
     searchQuery: '',
-    selectedCategory: '',
+    selectedCategory: [],
     sortBy: 'name',
     loading: true
   };
@@ -41,7 +41,7 @@ export class AwesomeSEOApp {
     this.setState({ searchQuery });
   }
 
-  setSelectedCategory(selectedCategory: string): void {
+  setSelectedCategory(selectedCategory: string[]): void {
     this.setState({ selectedCategory });
   }
 
@@ -52,7 +52,7 @@ export class AwesomeSEOApp {
   clearFilters(): void {
     this.setState({
       searchQuery: '',
-      selectedCategory: ''
+      selectedCategory: []
     });
   }
 
