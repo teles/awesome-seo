@@ -1,90 +1,51 @@
 name: Generate awesome.json
 
 on:
-    push:
-        branches: [main, feature/37-page]
-        paths:
-            - "README.md"
-    workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [main, feature/37-page]
+    paths:
+      - "README.md"
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
-    generate:
-        runs-on: ubuntu-latest
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
-              with:
-                  token: ${{ secrets.GITHUB_TOKEN }}
-                  fetch-depth: 0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
-              with:
-                  node-version: "18"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
 
-            - name: Parse README and generate JSON
-              run: |
-                  node -e "
-                  const fs = require('fs');
+      - name: Ensure docs directory exists
+        run: mkdir -p docs
 
-                  // Read README.md
-                  const readmeContent = fs.readFileSync('README.md', 'utf8');
+      - name: Parse README and generate JSON
+        run: node parse-readme.js
 
-                  // Parse the README content
-                  const tools = [];
-                  const lines = readmeContent.split('\n');
-                  let currentCategory = '';
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
 
-                  for (let i = 0; i < lines.length; i++) {
-                    const line = lines[i].trim();
-                    
-                    // Check for category headers (## **Category Name**)
-                    if (line.startsWith('## **') && line.endsWith('**')) {
-                      currentCategory = line.replace(/^## \*\*/, '').replace(/\*\*$/, '');
-                      continue;
-                    }
-                    
-                    // Check for tool entries (- [Tool Name](url) - Description)
-                    const toolMatch = line.match(/^- \[([^\]]+)\]\(([^)]+)\) - (.+)$/);
-                    if (toolMatch && currentCategory && !currentCategory.includes('Articles')) {
-                      const [, name, url, description] = toolMatch;
-                      
-                      tools.push({
-                        name: name.trim(),
-                        url: url.trim(),
-                        description: description.trim(),
-                        category: currentCategory.trim()
-                      });
-                    }
-                  }
+          # Add the generated file (force add since it might be in .gitignore)
+          git add -f docs/awesome.json
 
-                  // Create the JSON structure
-                  const awesomeData = {
-                    title: 'Awesome SEO',
-                    description: 'A curated list of SEO tools',
-                    lastUpdated: new Date().toISOString(),
-                    totalTools: tools.length,
-                    categories: [...new Set(tools.map(tool => tool.category))].sort(),
-                    tools: tools.sort((a, b) => a.name.localeCompare(b.name))
-                  };
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit - awesome.json is up to date"
+          else
+            git commit -m "🤖 Auto-update awesome.json from README.md
 
-                  // Write to docs/awesome.json
-                  fs.writeFileSync('docs/awesome.json', JSON.stringify(awesomeData, null, 2));
-
-                  console.log(\`Generated awesome.json with \${tools.length} tools in \${awesomeData.categories.length} categories\`);
-                  "
-
-            - name: Commit and push changes
-              run: |
-                  git config --local user.email "action@github.com"
-                  git config --local user.name "GitHub Action"
-                  git add docs/awesome.json
-
-                  # Check if there are changes to commit
-                  if git diff --staged --quiet; then
-                    echo "No changes to commit"
-                  else
-                    git commit -m "🤖 Auto-update awesome.json from README.md"
-                    git push
-                  fi
+            This file was automatically generated from README.md"
+            git push
+            echo "Successfully updated awesome.json"
+          fi
