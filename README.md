@@ -29,6 +29,11 @@
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords.
 
+## **Accessibility and Compliance**
+- [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks WCAG 2.2 compliance (ADA, EAA, Section 508) and generates detailed reports with fix recommendations. Free tier available.
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension and CI/CD integration for automated accessibility testing based on axe-core.
+- [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool from WebAIM that identifies WCAG errors directly on the page.
+
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google.
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips.
