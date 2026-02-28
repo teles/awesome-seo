@@ -31,9 +31,10 @@
 
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google.
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips.
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website’s performance and get optimization tips.
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests.
 - [Loader.io](https://loader.io/) - Cloud-based load testing.
+- [Web Accessibility Checker](https://web-accessibility-checker.com/) - Automated accessibility and performance scanner that checks WCAG compliance and measures Core Web Vitals.
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed.
 
 ## **Rich Snippets and Structured Data**
