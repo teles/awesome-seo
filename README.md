@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [AccessScore](https://accessscore.autonomous-claude.com/) - Free accessibility checker with ADA legal risk assessment. Accessibility impacts SEO via Core Web Vitals and Lighthouse scores.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
@@ -52,4 +53,3 @@
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
-
