@@ -5,6 +5,9 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [AI Visibility](https://github.com/sharozdawa/ai-visibility) - Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini. Web app + MCP server.
+- [Awesome SEO MCP Servers](https://github.com/sharozdawa/awesome-seo-mcp-servers) - Curated list of SEO MCP servers, agent skills, and tools for search engine optimization.
+- [IndexNow MCP](https://github.com/sharozdawa/indexnow-mcp) - Instant URL indexing via IndexNow and Google Indexing API. MCP server.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
@@ -22,6 +25,7 @@
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
+- [Robots.txt AI](https://github.com/sharozdawa/robotstxt-ai) - Visual robots.txt manager for AI crawlers with support for 20+ bots. Web app + MCP server.
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
@@ -41,6 +45,7 @@
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
+- [Schema Gen](https://github.com/sharozdawa/schema-gen) - Schema.org JSON-LD markup generator supporting 12 types. Web app + MCP server.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 ## **Articles and eBooks**
