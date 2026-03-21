@@ -11,6 +11,8 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) - Open-source visual robots.txt manager for AI crawlers with toggle controls for 20+ bots.
+- [ai-visibility](https://github.com/sharozdawa/ai-visibility) - Open-source tool to track brand visibility across ChatGPT, Perplexity, Claude, and Gemini.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
@@ -42,6 +44,7 @@
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
+- [schema-gen](https://github.com/sharozdawa/schema-gen) - Open-source Schema.org JSON-LD markup generator with 12 types and live preview.
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
