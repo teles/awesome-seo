@@ -44,6 +44,7 @@
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 ## **Articles and eBooks**
+- 🇫🇷 [Hi-Commerce Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/) - SEO blog covering semantic clusters, GEO LLM and e-commerce strategy (French).
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - 🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
