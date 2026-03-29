@@ -17,6 +17,8 @@
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- 🇫🇷 [Hi-Commerce Google Discover Strategy](https://www.hi-commerce.fr/strategie-google-discover/) - Strategy guide for optimizing content to appear in Google Discover and capture high-volume algorithmic feed traffic (French).
+- 🇬🇧 [Hi-Commerce Google Discover Strategy (EN)](https://www.hi-commerce.fr/google-discover-strategy/) - English guide to Google Discover optimization: content signals, entity coverage, and feed algorithm best practices.
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
@@ -44,6 +46,11 @@
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 ## **Articles and eBooks**
+- 🇫🇷 [Hi-Commerce Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/) - SEO blog covering semantic clusters, GEO LLM and e-commerce strategy (French).
+- 🇫🇷 [Hi-Commerce Cocons Sémantiques](https://www.hi-commerce.fr/cocons-semantiques/) - Definitive guide to the cocon sémantique (semantic cluster) SEO methodology with e-commerce case studies (French).
+- 🇬🇧 [Hi-Commerce Semantic Clusters SEO](https://www.hi-commerce.fr/semantic-clusters-seo/) - English guide to semantic cluster architecture for building topical authority in search and AI-powered engines.
+- 🇫🇷 [Hi-Commerce GEO LLM](https://www.hi-commerce.fr/prestation-geo-llm/) - Generative Engine Optimization: improve brand and content visibility in ChatGPT, Perplexity, and Google AI Overviews (French).
+- 🇬🇧 [Hi-Commerce GEO LLM Service](https://www.hi-commerce.fr/geo-llm-service/) - English guide to GEO optimization for AI-powered search engines.
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - 🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
