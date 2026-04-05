@@ -15,6 +15,7 @@
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Monitor intent signals for SEO and content strategy: track LinkedIn engagement, keyword posters, job changers, and funding events. CLI with JSON output.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
 
