@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/c02b8746-98a8-4875-a4ec-ebd220bdc355)
 
 > A curated list of SEO tools!
+- [Alt Audit](https://altaudit.com) — AI-powered alt text generator for WordPress. Bulk-generates SEO-optimized, WCAG-compliant alt text for images. Free rule-based generation + optional AI (130+ languages).
 
 ---
 
