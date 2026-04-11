@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin that runs full SEO audits using real Google Search Console and PageSpeed Insights data, then ships fixes (meta tags, schema markup, headings) directly to your repo or CMS.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
