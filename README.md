@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [AuditWidget](https://auditwidget.app/?utm_source=teles_awesome_seo&utm_medium=github_pr) - Embeddable SEO audit widget: visitors enter a URL, get a 12-point on-page and technical analysis, and unlock the full report by email (free tier: 5 audits/month).
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
