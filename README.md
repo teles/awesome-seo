@@ -17,6 +17,7 @@
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [SEO Booster](https://www.sgeo.it.com/) - AI SEO autopilot that writes and auto-publishes daily articles to 13 CMS platforms with brand voice learning, audience persona analysis, and GEO/AEO optimization for ChatGPT, Claude, and Gemini.
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
