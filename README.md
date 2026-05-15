@@ -18,6 +18,8 @@
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
 
+- [The SEO Autopilot](https://the-seo-autopilot.com) - Autonomous AI agent that runs the full SEO content pipeline (keyword research, fact-checked drafts, schema, internal linking, scheduling) for indie SaaS founders, plus 13 free in-browser SEO tools.
+
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
