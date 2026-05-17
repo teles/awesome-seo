@@ -7,6 +7,7 @@
 ## **Analysis and Site Auditing**
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
+- [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python SEO agent that audits pages in a real Chromium browser, detects SERP features via SerpApi, analyzes Google Search Console exports for quick wins and cannibalisation, scores backlinks, and maps internal link clusters.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
