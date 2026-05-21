@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [citable](https://github.com/WorkSmartAI-alt/citable) - Free open-source CLI that audits sites for AI search visibility (ChatGPT, Claude, Perplexity) and SEO foundations. 15 checks, 5-sheet xlsx output, MIT licensed.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
