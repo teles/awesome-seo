@@ -25,6 +25,7 @@
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
+- [crawlgraph](https://crawlgraph.com) - Free backlink intelligence built on the public Common Crawl web graph. Paste a competitor, export the full list of referring domains.
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing.
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords.
