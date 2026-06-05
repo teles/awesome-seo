@@ -34,6 +34,7 @@
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips.
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests.
 - [Loader.io](https://loader.io/) - Cloud-based load testing.
+- [SiteRacer](https://siteracer.com/) - Compare your site's load speed, TTFB, and total page size side-by-side against up to three competitors, with hosting/CDN/caching detection and prioritized fixes.
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed.
 
 ## **Rich Snippets and Structured Data**
