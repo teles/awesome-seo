@@ -9,6 +9,7 @@
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
+- [WebsiteReady](https://websiteready.org/?utm_source=awesome-seo-teles&utm_medium=github_awesome_list&utm_campaign=wr_backlink) - Free pre-launch website checker for SEO basics, crawlability, sitemap, robots.txt, analytics signals, security headers, and AI search readiness.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
 
