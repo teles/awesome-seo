@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills (MIT) for SEO, GEO, and paid-ads management; covers site analysis, keyword research, meta tags, schema markup, content writing, Google Ads audits, and Meta Ads ROAS analysis — powered by Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
