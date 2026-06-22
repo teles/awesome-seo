@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [AI Crawler Bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action to audit robots.txt for AI crawler/training-bot access and score a site's AI visibility.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
