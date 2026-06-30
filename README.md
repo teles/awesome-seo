@@ -35,6 +35,7 @@
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests.
 - [Loader.io](https://loader.io/) - Cloud-based load testing.
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed.
+- [Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Compare your website’s PageSpeed score vs. a competitor’s side-by-side. Free, no signup.
 
 ## **Rich Snippets and Structured Data**
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
