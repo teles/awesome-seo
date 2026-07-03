@@ -41,6 +41,7 @@
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
+- [Schema.org JSON-LD Generator](https://aarunyaapps.com/schema-generator) - Visual form builder for Schema.org structured data. Supports FAQPage, Product, Article, Event, Organization, BreadcrumbList. Real-time validator with copy-ready JSON-LD output.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 ## **Articles and eBooks**
