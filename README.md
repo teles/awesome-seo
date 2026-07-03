@@ -25,6 +25,7 @@
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
+- [AppNiche ASO Keyword Opportunity Checker](https://getappniche.com/tools/app-store-keyword-tool) - Free App Store keyword research tool for finding ASO opportunities by keyword, difficulty, and app competition.
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing.
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords.
