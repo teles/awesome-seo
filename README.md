@@ -22,6 +22,7 @@
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated resources for GEO and agentic commerce: getting brands cited by AI answer engines, llms.txt, and agent checkout protocols.
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
