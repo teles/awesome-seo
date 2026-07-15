@@ -53,3 +53,7 @@
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
 
+
+
+## Advanced GEO Tools
+- [KusiGEO](https://kusiai.es/) — AI visibility audit tool for ChatGPT, Gemini, Perplexity and AI Overviews; measures brand mentions, entity clarity and citation readiness.
