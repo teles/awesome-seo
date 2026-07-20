@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [gsc-indexer](https://github.com/toolsura/gsc-indexer) - Submit and re-index URLs to Google Search Console's URL Inspection API from CI.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
