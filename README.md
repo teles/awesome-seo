@@ -28,6 +28,7 @@
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing.
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site.
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords.
+- [Trends MCP](https://trendsmcp.ai) - Search and social trend data API for keyword and demand research.
 
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google.
