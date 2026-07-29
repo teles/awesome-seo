@@ -38,6 +38,7 @@
 
 ## **Rich Snippets and Structured Data**
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
+- [GeoImageTagger](https://geoimagetagger.com/) - Add GPS coordinates and edit EXIF/IPTC/XMP metadata in images to improve local image SEO.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
