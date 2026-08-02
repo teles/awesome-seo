@@ -8,6 +8,7 @@
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
+- [Sitemap Checker](https://mydentify.com/tools/sitemap-health-checker) - Check an XML sitemap for reachability, structure, duplicate URLs, and stale entries.
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
@@ -52,4 +53,3 @@
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
-
