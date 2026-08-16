@@ -17,11 +17,12 @@
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
-- [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
+- [Open Graph Protocol](https://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
