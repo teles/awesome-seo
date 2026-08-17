@@ -16,7 +16,8 @@
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
-- [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [SearchAttention](https://searchAttention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [GeoKit](https://geokit.site) - Generative Engine Optimization (GEO) & AI search prompt engineering toolkit by [WillSun Agency](https://willsun.agency).
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
