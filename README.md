@@ -5,6 +5,8 @@
 ---
 
 ## **Analysis and Site Auditing**
+[zens.ink](https://github.com/ZensInk/zens-ink-seo-package)
+> Free open-source SEO CLI toolkit (26 tools, pure Python stdlib, zero dependencies): keyword research, SERP difficulty scoring, site audit, GEO/AI-search scoring, rank tracking — runs on free API tiers.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
