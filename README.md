@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [Superflow robots.txt AI Checker](https://usesuperflow.ai/tools/robots-txt-ai-checker?utm_source=awesome-seo&utm_medium=directory&utm_campaign=free-tools) - Check AI crawler rules and CDN/WAF blocks. Free, no login.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
@@ -40,6 +41,8 @@
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
+- [Superflow JSON-LD Validator](https://usesuperflow.ai/tools/json-ld-validator?utm_source=awesome-seo&utm_medium=directory&utm_campaign=free-tools) - Free JSON-LD validator. No login.
+- [Superflow Social Preview](https://usesuperflow.ai/tools/social-preview?utm_source=awesome-seo&utm_medium=directory&utm_campaign=free-tools) - Preview Open Graph and Twitter cards for any URL. Free, no login.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
