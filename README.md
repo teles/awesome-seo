@@ -46,6 +46,7 @@
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - 🇧 [15 Awesome SEO Tools to Spy on Your Competitors](https://mention.com/en/blog/competitor-seo-tools/) - Explore SEO tools for analyzing competitors.
+- 🇬🇧 [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - How many websites block GPTBot, ClaudeBot and CCBot, measured across 151.6 million sites.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
 - 🇬🇧 [How Online Reviews Impact Local SEO](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line) - Explore how reviews affect local SEO.
 - 🇬🇧 [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist) - SEO checklist for ranking in Google.
