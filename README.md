@@ -11,7 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
-- [TrustYourWebsite](https://trustyourwebsite.com) - Automated GDPR, cookie banner and accessibility compliance scanner for EU and UK small-business websites. The free scan returns a risk score and issue counts.
+- [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - Compliance scanner for European small-business websites: checks cookies, consent, legal pages and WCAG accessibility (axe-core) against each country's own rules, such as the German Impressum, French mentions légales and UK PECR. The free scan returns a risk score and issue counts.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
