@@ -11,6 +11,7 @@
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
+- [jev-seo](https://github.com/DeployMates/jev-seo) - Audits a site for SEO and AI answer engine visibility; a deterministic crawler measures each page, then Jev answers narrow typed questions and the results surface as probabilities in a dashboard.
 
 ## **Content and Social Media**
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition.
