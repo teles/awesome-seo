@@ -1,9 +1,11 @@
 {
   "title": "Awesome SEO",
   "description": "A curated list of SEO tools",
-  "lastUpdated": "2025-10-05T22:01:02.584Z",
-  "totalTools": 27,
+  "lastUpdated": "2026-09-30T21:40:54.882Z",
+  "totalTools": 86,
   "categories": [
+    "AI Visibility and GEO",
+    "Accessibility and Compliance",
     "Analysis and Site Auditing",
     "Content and Social Media",
     "Documentation and Guidelines",
@@ -13,166 +15,520 @@
   ],
   "tools": [
     {
+      "name": "Aarunya Schema Generator",
+      "url": "https://aarunyaapps.com/schema-generator",
+      "description": "JSON-LD schema generator. 💵",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "AccessScore",
+      "url": "https://accessscore.autonomous-claude.com/",
+      "description": "Accessibility checker that flags WCAG issues with SEO impact. 💵",
+      "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "AEOrank",
+      "url": "https://aeorank.dev",
+      "description": "Deterministic Answer Engine Optimization scoring via CLI. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
       "name": "AHrefs",
       "url": "https://ahrefs.com",
-      "description": "Backlinks searcher and SEO reporter.",
+      "description": "Backlinks searcher and SEO reporter. 💰",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "ai-crawler-bots",
+      "url": "https://github.com/TryGeoSuite/ai-crawler-bots",
+      "description": "CLI and GitHub Action that audit AI-crawler access. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Alt Audit",
+      "url": "https://altaudit.com",
+      "description": "AI alt-text and WCAG compliance tool for WordPress. 💵",
+      "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "AnswerLens",
+      "url": "https://app.sfdj.net/",
+      "description": "Audits pages for AI answer-engine visibility. 💵",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "Applinks Documentation",
       "url": "http://applinks.org/documentation/",
-      "description": "Use meta tags to create deep links for your apps.",
+      "description": "Use meta tags to create deep links for your apps. 🆓",
       "category": "Documentation and Guidelines"
+    },
+    {
+      "name": "axe DevTools",
+      "url": "https://www.deque.com/axe/devtools/",
+      "description": "Accessibility testing tools by Deque. 💵",
+      "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "BrainFeed Schema Generators",
+      "url": "https://brainfeedsolutions.com/tools/schema-markup-generator",
+      "description": "Free JSON-LD generators with rich-result eligibility guidance. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Broken Link Checker",
+      "url": "https://broken-links-checker.com/",
+      "description": "Chrome extension to find broken links on a page or across a whole site. 💵",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "Buzzsumo",
       "url": "https://app.buzzsumo.com",
-      "description": "Analyze which content performs best for any topic or competition.",
+      "description": "Analyze which content performs best for any topic or competition. 💵",
       "category": "Content and Social Media"
+    },
+    {
+      "name": "ChatGPT Citation Checker",
+      "url": "https://github.com/lourdespaul/chatgpt-citation-checker",
+      "description": "Python script that checks whether ChatGPT names your company. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "citable",
+      "url": "https://github.com/WorkSmartAI-alt/citable",
+      "description": "CLI that audits AI search visibility and SEO. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Cited By AI",
+      "url": "https://citedbyai.info",
+      "description": "Block-level AI citation auditing across a 28-module rubric. 💵",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Click Coded AI Visibility Check",
+      "url": "https://clickcoded.com/ai-visibility-check-free/",
+      "description": "Free AI-crawler visibility checker with generated fix files. 🆓",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "ContentStudio",
       "url": "https://app.contentstudio.io",
-      "description": "Discover niche-relevant content and share it on your social media channels.",
+      "description": "Discover niche-relevant content and share it on your social media channels. 💵",
       "category": "Content and Social Media"
+    },
+    {
+      "name": "CrawlGraph",
+      "url": "https://crawlgraph.com",
+      "description": "Backlink analysis and competitor research. 💵",
+      "category": "Keyword and Competitor Research"
     },
     {
       "name": "Diretrizes para Webmasters",
       "url": "https://support.google.com/webmasters/answer/35769",
-      "description": "Google guidelines for webmasters.",
+      "description": "Google guidelines for webmasters. 🆓",
       "category": "Documentation and Guidelines"
+    },
+    {
+      "name": "DR Checker",
+      "url": "https://dr-checker.com/",
+      "description": "Check Ahrefs Domain Rating for any domain, free. 🆓",
+      "category": "Keyword and Competitor Research"
     },
     {
       "name": "FAQ Schema Generator",
       "url": "https://foxmaya.com/tools/faq-schema-generator",
-      "description": "Instantly generate FAQ structured data to improve your click-through rate.",
+      "description": "Instantly generate FAQ structured data to improve your click-through rate. 🆓",
       "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Foglift",
+      "url": "https://foglift.io",
+      "description": "SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "GEO Optimizer",
+      "url": "https://github.com/Auriti-Labs/geo-optimizer-skill",
+      "description": "Open-source GEO toolkit that audits AI-crawler readiness. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "GEO/AEO Tracker",
+      "url": "https://github.com/danishashko/geo-aeo-tracker",
+      "description": "Open-source dashboard that tracks AI search visibility. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "GeoImageTagger",
+      "url": "https://geoimagetagger.com/",
+      "description": "AI photo geotagging and EXIF metadata for local SEO. 💵",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "geolint",
+      "url": "https://github.com/iliasabk/geolint",
+      "description": "\"ESLint for AI search\": audits AI-crawler access, llms.txt, schema and citability. 🔓",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "Google Mobile Friendly Test",
       "url": "https://www.google.com/webmasters/tools/mobile-friendly",
-      "description": "Test your site’s mobile compatibility according to Google.",
+      "description": "Test your site’s mobile compatibility according to Google. 🆓",
       "category": "Performance and Speed"
     },
     {
       "name": "Google PageSpeed Insights",
       "url": "https://developers.google.com/speed/pagespeed/insights/",
-      "description": "Test your website's performance and get optimization tips.",
+      "description": "Test your website's performance and get optimization tips. 🆓",
       "category": "Performance and Speed"
     },
     {
       "name": "Google Rich Results Test",
       "url": "https://search.google.com/test/rich-results",
-      "description": "Test your microdata markup and see examples.",
+      "description": "Test your microdata markup and see examples. 🆓",
       "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "GSC Indexer",
+      "url": "https://github.com/toolsura/gsc-indexer",
+      "description": "CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "GTMetrix",
       "url": "https://gtmetrix.com/",
-      "description": "Measure your site’s Page Load Time, Total Page Size, and Total Requests.",
+      "description": "Measure your site’s Page Load Time, Total Page Size, and Total Requests. 💵",
       "category": "Performance and Speed"
+    },
+    {
+      "name": "IndexFox",
+      "url": "https://indexfox.ai/",
+      "description": "AI search visibility widget and monitoring for your brand. 💰",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "JSON-LD Schema Markup Generator",
       "url": "https://www.jamesdflynn.com/json-ld-schema-generator/",
-      "description": "A utility to build schema markup using JSON-LD.",
+      "description": "A utility to build schema markup using JSON-LD. 🆓",
       "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "Keywordtool.io",
       "url": "http://keywordtool.io/",
-      "description": "Keyword search tool for Google, YouTube, App Store, and Bing.",
+      "description": "Keyword search tool for Google, YouTube, App Store, and Bing. 💵",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "KinetixSEO",
+      "url": "https://kinetixseo.com/",
+      "description": "On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "LLM Pulse",
+      "url": "https://llmpulse.ai",
+      "description": "Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "Loader.io",
       "url": "https://loader.io/",
-      "description": "Cloud-based load testing.",
+      "description": "Cloud-based load testing. 💵",
       "category": "Performance and Speed"
+    },
+    {
+      "name": "LovedByAI",
+      "url": "https://www.lovedby.ai/",
+      "description": "WordPress plugin that makes pages citable by AI search engines. 💰",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "MergeFix",
+      "url": "https://mergefix.com",
+      "description": "AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "mesure-citations",
+      "url": "https://github.com/thomasmerlaud/mesure-citations",
+      "description": "Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Mydentify",
+      "url": "https://mydentify.com/tools",
+      "description": "Free technical-SEO tools for sitemap health, crawler access and more. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "nextjs-jsonld-schema",
+      "url": "https://github.com/Aghefendi/nextjs-jsonld-schema",
+      "description": "Next.js library for JSON-LD structured data. 🔓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "NotFair",
+      "url": "https://github.com/nowork-studio/NotFair",
+      "description": "Open-source Claude Code skills for SEO, GEO and paid ads. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "ogimg.xyz",
+      "url": "https://ogimg.xyz/",
+      "description": "Open Graph image generation API. 💵",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "OmniSEO Tools",
+      "url": "https://omniseotools.com",
+      "description": "45 free client-side SEO, meta and schema utilities. 🆓",
+      "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "Open Graph Debugger",
       "url": "https://developers.facebook.com/tools/debug/",
-      "description": "Debug Open Graph metadata.",
+      "description": "Debug Open Graph metadata. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "Open Graph Image Preview",
+      "url": "https://imagedimensions.com/tools/og-image-preview",
+      "description": "Open Graph image preview and debugger. 🆓",
       "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "Open Graph Protocol",
       "url": "http://opengraphprotocol.org/",
-      "description": "Meta tags protocol used by Facebook.",
+      "description": "Meta tags protocol used by Facebook. 🆓",
       "category": "Documentation and Guidelines"
     },
     {
       "name": "Open Link Profiler",
       "url": "http://openlinkprofiler.org/",
-      "description": "Discover who is creating backlinks to your site.",
+      "description": "Discover who is creating backlinks to your site. 🆓",
       "category": "Keyword and Competitor Research"
     },
     {
       "name": "OptimalUX",
       "url": "https://optimalux.com/seo-patching",
-      "description": "Real-time SEO patching and A/B testing for flawless web experiments.",
+      "description": "Real-time SEO patching and A/B testing for flawless web experiments. 💵",
       "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Oxwyn Schema Generator",
+      "url": "https://www.oxwynstudio.com/tools/schema-generator",
+      "description": "Client-side LocalBusiness JSON-LD generator. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "PageGuard",
+      "url": "https://pageguard.org/",
+      "description": "Website health scanner for accessibility, SEO and performance. 💵",
+      "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "PromptEden",
+      "url": "https://www.prompteden.com",
+      "description": "Monitor brand mentions across ChatGPT, Claude and Gemini. 💵",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "pSEOlint",
+      "url": "https://pseolint.dev",
+      "description": "Programmatic-SEO auditor with SpamBrain and AEO checks. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "RatedWithAI",
+      "url": "https://ratedwithai.com",
+      "description": "Accessibility scanner powered by axe-core. 💵",
+      "category": "Accessibility and Compliance"
     },
     {
       "name": "Raven Tools",
       "url": "https://raventools.com/",
-      "description": "SEO software focused on site audits and rank tracking.",
+      "description": "SEO software focused on site audits and rank tracking. 💰",
       "category": "Analysis and Site Auditing"
     },
     {
       "name": "Schema.org Full List Documentation",
       "url": "http://schema.org/docs/full.html",
-      "description": "Full list of schema.org recipes for implementing structured data.",
+      "description": "Full list of schema.org recipes for implementing structured data. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "SchemaForge",
+      "url": "https://schemaforge.thememend.com",
+      "description": "Validated JSON-LD schema generator. 💵",
       "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "Screaming Frog SEO Spider",
       "url": "https://www.screamingfrog.co.uk/seo-spider/",
-      "description": "Industry-leading website crawler for technical SEO audits.",
+      "description": "Industry-leading website crawler for technical SEO audits. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Screpy",
+      "url": "https://screpy.com/",
+      "description": "AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵",
       "category": "Analysis and Site Auditing"
     },
     {
       "name": "SearchAttention",
       "url": "https://searchattention.com",
-      "description": "Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.",
+      "description": "Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵",
       "category": "Content and Social Media"
     },
     {
       "name": "SemRush",
       "url": "http://www.semrush.com/",
-      "description": "Comprehensive tool for analyzing website keywords.",
+      "description": "Comprehensive tool for analyzing website keywords. 💵",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "SEO Command Center",
+      "url": "https://github.com/testedmedia/seo-command-center",
+      "description": "Self-hosted SEO platform built on the DataForSEO API. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "SEO for AI",
+      "url": "https://getseoforai.com/",
+      "description": "Audit and improve how AI search engines read and cite your site. 💵",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "seo-agent",
+      "url": "https://github.com/dannwaneri/seo-agent",
+      "description": "Open-source Python agent that runs on-page SEO audits. 🔓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "Seobility",
       "url": "https://www.seobility.net/en/",
-      "description": "All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.",
+      "description": "All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "SEOPeek",
+      "url": "https://seopeek.web.app",
+      "description": "Lightweight SEO audit API with 20 checks. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "SGEO",
+      "url": "https://www.sgeo.it.com/",
+      "description": "SEO/GEO automation platform with schema injection and AI agents. 💵",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Shipwork",
+      "url": "https://shipwork.io/",
+      "description": "Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵",
       "category": "Analysis and Site Auditing"
     },
     {
       "name": "SimilarWeb",
       "url": "http://www.similarweb.com/",
-      "description": "Discover your world rank and get information about traffic and referrals.",
+      "description": "Discover your world rank and get information about traffic and referrals. 💵",
       "category": "Content and Social Media"
+    },
+    {
+      "name": "SiteData",
+      "url": "https://sitedata.dev/",
+      "description": "Reverse-AdSense and ad-intelligence research. 💰",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "SocialBu",
+      "url": "https://socialbu.com",
+      "description": "Social media management and scheduling with automation. 💵",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "squirrelscan",
+      "url": "https://squirrelscan.com/",
+      "description": "Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Superflow",
+      "url": "https://usesuperflow.ai/",
+      "description": "AI QA review agents for websites, with free SEO and meta utilities. 💵",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "The SEO Autopilot",
+      "url": "https://the-seo-autopilot.com",
+      "description": "Programmatic SEO playbook and automation system. 💵",
+      "category": "Content and Social Media"
+    },
+    {
+      "name": "toprank",
+      "url": "https://github.com/nowork-studio/toprank",
+      "description": "Open-source marketing and SEO skills for AI coding agents. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "TrustYourWebsite",
+      "url": "https://trustyourwebsite.com/eu/en",
+      "description": "EU compliance scanner for cookies, privacy, accessibility and security. 💰",
+      "category": "Accessibility and Compliance"
     },
     {
       "name": "Ubersuggest",
       "url": "https://ubersuggest.com/",
-      "description": "Free SEO tool specializing in generating keyword ideas.",
+      "description": "Free SEO tool specializing in generating keyword ideas. 💵",
       "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "vercel-seo-audit",
+      "url": "https://github.com/JosephDoUrden/vercel-seo-audit",
+      "description": "CLI SEO audit for Next.js projects. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "WAVE",
+      "url": "https://wave.webaim.org/",
+      "description": "Web accessibility evaluation tool by WebAIM. 🆓",
+      "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "Web Accessibility Checker",
+      "url": "https://web-accessibility-checker.com",
+      "description": "WCAG and EAA accessibility scanner. 💵",
+      "category": "Accessibility and Compliance"
     },
     {
       "name": "WebPageTest",
       "url": "http://www.webpagetest.org/",
-      "description": "Test your website’s performance and loading speed.",
+      "description": "Test your website’s performance and loading speed. 🆓",
       "category": "Performance and Speed"
+    },
+    {
+      "name": "WebsiteReady",
+      "url": "https://websiteready.org/",
+      "description": "Free pre-launch website checklist with AI-readiness checks. 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "Woorank",
       "url": "https://www.woorank.com/pt/",
-      "description": "Tests your website according to more than 70 SEO criteria.",
+      "description": "Tests your website according to more than 70 SEO criteria. 💵",
       "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "WordPress GEO Optimizer",
+      "url": "https://github.com/henu-wang/wordpress-geo-optimizer",
+      "description": "WordPress plugin that adds GEO and structured-data signals. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "ZensInk",
+      "url": "https://github.com/ZensInk/zens-ink-seo-package",
+      "description": "Free CLI toolkit for keyword research and technical audits. 🔓",
+      "category": "Keyword and Competitor Research"
     }
   ]
 }
