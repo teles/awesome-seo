@@ -5,6 +5,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [Shipwork](https://shipwork.io/) - Free checks for public-site crawlability, sitemaps, indexability, structured data, links, products, and selected AI-crawler signals; paid plans add full-site crawls and daily monitoring.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
