@@ -79,6 +79,7 @@
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter. 💰
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
+- [HarborRank](https://harborrank.com/) - Keyword metrics, live Google SERPs, competitor keywords, backlinks, rank tracking and site audits, exposed to AI agents through an MCP server. 💰
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
