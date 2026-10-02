@@ -51,6 +51,7 @@
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
+- [LogNorm](https://lognorm.com) - Tracks how ChatGPT, Gemini and Google AI Overviews answer buyer prompts, audits AI-crawler access, llms.txt and structured data, and hands the fixes to AI agents over MCP. 💵
 
 ## **Accessibility and Compliance**
 - [AccessScore](https://accessscore.autonomous-claude.com/) - Accessibility checker that flags WCAG issues with SEO impact. 💵
