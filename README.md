@@ -50,6 +50,7 @@
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
+- [Unrendered](https://missiongrowth.io/tools/unrendered) - Chrome extension and MCP server that show which page content AI crawlers can't read without JavaScript. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
 ## **Accessibility and Compliance**
