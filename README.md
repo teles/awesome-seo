@@ -47,6 +47,8 @@
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
+- [RankAgent AI Crawler Checker](https://www.therankagent.com/tools/ai-crawler-checker) - Checks robots.txt and headers for GPTBot, ClaudeBot, PerplexityBot and other AI crawlers, with a fix snippet. 🆓
+- [RankAgent llms.txt Generator](https://www.therankagent.com/tools/llms-txt-generator) - Generates and validates an llms.txt file for your site. 🆓
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
@@ -105,6 +107,7 @@
 - [ogimg.xyz](https://ogimg.xyz/) - Open Graph image generation API. 💵
 - [OmniSEO Tools](https://omniseotools.com) - 45 free client-side SEO, meta and schema utilities. 🆓
 - [Oxwyn Schema Generator](https://www.oxwynstudio.com/tools/schema-generator) - Client-side LocalBusiness JSON-LD generator. 🆓
+- [RankAgent Schema Generator](https://www.therankagent.com/tools/schema-generator) - JSON-LD generator for Organization, LocalBusiness, Product and Article, with sameAs links. 🆓
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data. 🆓
 
