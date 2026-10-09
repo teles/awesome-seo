@@ -82,6 +82,7 @@
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
+- [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Windows desktop tool that analyzes the top-ranking pages for a keyword and generates a data-backed AI writing brief. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
