@@ -31,6 +31,7 @@
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
 
 ## **AI Visibility and GEO**
+- [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) - Self-hostable AEO audit engine with MCP servers and a Chrome extension. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
