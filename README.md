@@ -83,6 +83,7 @@
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
+- [Vaneform](https://vaneform.com/) - Free website traffic checker with monthly visits, traffic sources and side-by-side domain comparison. 💵
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
 ## **Performance and Speed**
