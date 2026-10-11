@@ -52,6 +52,7 @@
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
+- [Serpel](https://serpel.app) - SEO infrastructure for rankings, site audits, keyword research, and AI visibility. 💵
 ## **Accessibility and Compliance**
 - [AccessScore](https://accessscore.autonomous-claude.com/) - Accessibility checker that flags WCAG issues with SEO impact. 💵
 - [Alt Audit](https://altaudit.com) - AI alt-text and WCAG compliance tool for WordPress. 💵
