@@ -63,6 +63,7 @@
 - [Web Accessibility Checker](https://web-accessibility-checker.com) - WCAG and EAA accessibility scanner. 💵
 
 ## **Content and Social Media**
+- [Blawgy](https://blawgy.com) - AI SEO blog writer that researches keywords, writes and publishes posts to WordPress, Shopify, Webflow and more, with an MCP server for AI agents. 💰
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition. 💵
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels. 💵
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
