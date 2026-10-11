@@ -80,6 +80,7 @@
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
+- [LinkCensus](https://linkcensus.com/) - Ranks related sites from dated Common Crawl graphs, with retained shared-linker evidence and a free preview of up to five rows. 💵
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
