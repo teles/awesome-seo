@@ -20,6 +20,7 @@
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
+- [SEO Audit Toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) - Python crawler that checks sitemaps, status codes, titles, canonicals, robots/noindex, JSON-LD and internal links, plus a Search Console query overlap finder. 🔓
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
