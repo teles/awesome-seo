@@ -25,6 +25,7 @@
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
+- [Technical SEO Page Audit](https://mamoo85.github.io/open-data-actors/technical-seo-page-audit.html) - Audits a URL list for status, redirects, titles, canonicals, hreflang and broken links; pay-per-result Apify actor. 💵
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
 - [vercel-seo-audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI SEO audit for Next.js projects. 🔓
 - [WebsiteReady](https://websiteready.org/) - Free pre-launch website checklist with AI-readiness checks. 🆓
