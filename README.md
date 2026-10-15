@@ -63,6 +63,7 @@
 - [Web Accessibility Checker](https://web-accessibility-checker.com) - WCAG and EAA accessibility scanner. 💵
 
 ## **Content and Social Media**
+- [AltoRank](https://altorank.co) - Open-source SEO content software that researches what buyers search for and drafts articles with sources attached. 🔓
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition. 💵
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels. 💵
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
