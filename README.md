@@ -15,6 +15,7 @@
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
+- [RankProof](https://github.com/CometWeb-io/rankproof) - Local CLI and web UI that checks search visibility and verifies backlinks without paid SEO APIs. 🔓
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
