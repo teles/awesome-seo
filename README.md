@@ -11,6 +11,7 @@
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
+- [Local Site Audit + Pitch](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source Edge/Firefox extension that finds on-page faults (no HTTPS, mixed content, untappable phone numbers, missing meta/alt, broken links) and writes a client report. 💵
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
