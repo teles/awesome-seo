@@ -96,6 +96,7 @@
 - [Aarunya Schema Generator](https://aarunyaapps.com/schema-generator) - JSON-LD schema generator. 💵
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
+- [Formgong Review Schema Generator](https://formgong.com/en/tools/review-schema-generator/) - Review and AggregateRating JSON-LD generator that checks the result against Google review snippet rules. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
