@@ -37,6 +37,7 @@
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
 - [Cited By AI](https://citedbyai.info) - Block-level AI citation auditing across a 28-module rubric. 💵
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
+- [Depra AI](https://depra.ai) - Tracks brand mentions across ChatGPT, Gemini, Perplexity and Google AI Overviews in 40 markets, including English and Hinglish. 💰
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
