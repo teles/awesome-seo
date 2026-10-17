@@ -84,6 +84,7 @@
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
+- [Awesome Open-Source SEO](https://github.com/ZensInk/awesome-open-source-seo) - Curated, tools-only list of ~50 open-source SEO projects: CLI, self-hosted, GEO/AI. Auto-refreshed star and activity data. 🔓
 
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google. 🆓
