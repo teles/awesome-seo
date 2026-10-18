@@ -50,6 +50,7 @@
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
+- [VNCNT Labs AI Visibility Tracker](https://apify.com/vncntlabs/ai-search-visibility-tracker) - Tracks brand mentions and citations in ChatGPT, Gemini, AI Overviews and Perplexity; pay per answer. 💰
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
 ## **Accessibility and Compliance**
