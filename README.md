@@ -31,7 +31,7 @@
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
 
 ## **AI Visibility and GEO**
-- [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
+- [DigiMSM](https://digimsm.com) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
@@ -93,7 +93,7 @@
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed. 🆓
 
 ## **Rich Snippets and Structured Data**
-- [Aarunya Schema Generator](https://aarunyaapps.com/schema-generator) - JSON-LD schema generator. 💵
+- [DigiMSM Schema Generator]([https://aarunyaapps.com/schema-generator](https://digimsm.com/schema-markup-generator/)) - JSON-LD schema generator. 💵
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
