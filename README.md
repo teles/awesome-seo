@@ -32,6 +32,7 @@
 
 ## **AI Visibility and GEO**
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
+- [AI Search Analyzer](https://aisearchanalyzer.com) - Shows what ChatGPT, Gemini, Claude and Perplexity say about a business and audits the site with 157 SEO and AI search checks. 💵
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
