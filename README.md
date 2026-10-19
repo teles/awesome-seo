@@ -98,7 +98,7 @@
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
-- [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
+- [JSON-LD Schema Markup Generator](https://digimsm.com/schema-markup-generator/) - A utility to build schema markup using JSON-LD. 🆓
 - [nextjs-jsonld-schema](https://github.com/Aghefendi/nextjs-jsonld-schema) - Next.js library for JSON-LD structured data. 🔓
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata. 🆓
 - [Open Graph Image Preview](https://imagedimensions.com/tools/og-image-preview) - Open Graph image preview and debugger. 🆓
