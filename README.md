@@ -13,6 +13,7 @@
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
+- [NoindexWatch](https://noindexwatch.com/tools) - Free indexability checkers (noindex, X-Robots-Tag, robots.txt, canonical, sitemap) plus daily monitoring with email or Slack alerts. 💵
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
