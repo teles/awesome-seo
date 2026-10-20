@@ -47,6 +47,7 @@
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
+- [Rankwise](https://tryrankwise.com) - Tracks whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews cite a brand, drafts articles for the questions it loses, and lists technical fixes for AI crawlers. 💰
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
