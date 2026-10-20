@@ -107,6 +107,7 @@
 - [Oxwyn Schema Generator](https://www.oxwynstudio.com/tools/schema-generator) - Client-side LocalBusiness JSON-LD generator. 🆓
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data. 🆓
+- [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Client-side JSON-LD generator for Article, Product, FAQ, LocalBusiness and more. 🆓
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
