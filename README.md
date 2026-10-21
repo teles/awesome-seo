@@ -7,6 +7,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [AnalyzeInsta SEO Scanner](https://analyzeinsta.com/seo-website-scanner) - Scans domains and URLs as Googlebot across 6 ranking pillars and generates 1-click AI fix prompts. 🆓
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
