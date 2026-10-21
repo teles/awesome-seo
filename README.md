@@ -31,6 +31,7 @@
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
 
 ## **AI Visibility and GEO**
+- [AEO Checker](https://github.com/pchewlo/aeo-check) - CLI, GitHub Action and pre-commit hook that lints a site's code or live URL for AI crawler access, llms.txt, JSON-LD and agent-usable Buy buttons. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
