@@ -23,6 +23,7 @@
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
+- [Site Spell Checker](https://sitespellchecker.com/) - Finds spelling and grammar mistakes on every page of a live website. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
