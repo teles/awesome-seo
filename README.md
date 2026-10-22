@@ -24,6 +24,7 @@
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
+- [Stillindexed](https://stillindexed.com/) - Scheduled robots.txt, noindex, canonical and status-code monitoring with alerts, plus free robots.txt and indexability checkers. 💵
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
 - [vercel-seo-audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI SEO audit for Next.js projects. 🔓
