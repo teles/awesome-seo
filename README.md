@@ -56,6 +56,7 @@
 - [AccessScore](https://accessscore.autonomous-claude.com/) - Accessibility checker that flags WCAG issues with SEO impact. 💵
 - [Alt Audit](https://altaudit.com) - AI alt-text and WCAG compliance tool for WordPress. 💵
 - [axe DevTools](https://www.deque.com/axe/devtools/) - Accessibility testing tools by Deque. 💵
+- [BrandTactics Accessibility Generator](https://brandtactics.co.il/accessibility-generator/) - Free generator for standard accessibility compliance statements and WCAG 2.1 AA audits. 🆓
 - [PageGuard](https://pageguard.org/) - Website health scanner for accessibility, SEO and performance. 💵
 - [RatedWithAI](https://ratedwithai.com) - Accessibility scanner powered by axe-core. 💵
 - [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - EU compliance scanner for cookies, privacy, accessibility and security. 💰
