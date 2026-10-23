@@ -117,5 +117,6 @@
 - 🇬🇧 [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist) - SEO checklist for ranking in Google.
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
+- [Removed noindex, but still not indexed?](https://deploypost.com/noindex-removed-still-not-indexed) - Worked example comparing Search Console’s last crawl with live HTML, X-Robots-Tag headers and robots.txt.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
 
