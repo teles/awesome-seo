@@ -118,4 +118,5 @@
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
+- 🇬🇧 [Why Your Favicon Isn't Showing in Google Search](https://www.zyff.app/guides/favicon-not-showing-in-google-search) - What Google requires before it shows a favicon beside a search result, and how to fix each cause.
 
