@@ -59,6 +59,7 @@
 - [PageGuard](https://pageguard.org/) - Website health scanner for accessibility, SEO and performance. 💵
 - [RatedWithAI](https://ratedwithai.com) - Accessibility scanner powered by axe-core. 💵
 - [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - EU compliance scanner for cookies, privacy, accessibility and security. 💰
+- [Uptura Accessibility Checker](https://uptura.io/tools/accessibility-checker) - Free WCAG 2.2 A/AA page checker powered by axe-core, no signup. 🆓
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM. 🆓
 - [Web Accessibility Checker](https://web-accessibility-checker.com) - WCAG and EAA accessibility scanner. 💵
 
