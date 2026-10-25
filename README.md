@@ -14,6 +14,7 @@
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
+- [PasteZap XML Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Checks sitemap structure, URL syntax and optional values in the browser. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
