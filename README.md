@@ -18,6 +18,7 @@
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
+- [SEMPITE Site Audit](https://sempite.com/tools/site-audit) - Free site-wide audit: crawls up to 100 pages, scores 22 checks and writes a fix plan with a self-hosted LLM. 🆓
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
