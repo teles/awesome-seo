@@ -69,6 +69,7 @@
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals. 💵
 - [SocialBu](https://socialbu.com) - Social media management and scheduling with automation. 💵
 - [The SEO Autopilot](https://the-seo-autopilot.com) - Programmatic SEO playbook and automation system. 💵
+- [TKMetrics](https://tkmetrics.com/trends/) - TikTok creator stats and hashtag trends from public TikTok data. 🆓
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps. 🆓
