@@ -77,6 +77,7 @@
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter. 💰
+- [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Vets link sources before you submit your site, verifies listings and audits your backlinks against Google's link spam policies; paid signals need a Glasser or AIsa API key. 🔓
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
