@@ -84,6 +84,7 @@
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## **Performance and Speed**
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google. 🆓
