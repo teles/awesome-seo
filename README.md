@@ -16,6 +16,7 @@
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
+- [Redirect Trace](https://redirect-trace.pages.dev/) - Free redirect chain checker with status codes, response times and bulk checks of up to 50 URLs. 🆓
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
@@ -105,6 +106,7 @@
 - [ogimg.xyz](https://ogimg.xyz/) - Open Graph image generation API. 💵
 - [OmniSEO Tools](https://omniseotools.com) - 45 free client-side SEO, meta and schema utilities. 🆓
 - [Oxwyn Schema Generator](https://www.oxwynstudio.com/tools/schema-generator) - Client-side LocalBusiness JSON-LD generator. 🆓
+- [Redirect Trace Schema Validator](https://redirect-trace.pages.dev/schema-markup-validator/) - Free JSON-LD validator that explains every error, checks Google rich result eligibility and returns corrected markup. 🆓
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data. 🆓
 
