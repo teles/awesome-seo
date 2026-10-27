@@ -107,6 +107,7 @@
 - [Oxwyn Schema Generator](https://www.oxwynstudio.com/tools/schema-generator) - Client-side LocalBusiness JSON-LD generator. 🆓
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data. 🆓
+- [Social Card Checker by RadarMakers](https://radarmakers.com/tools/social-card-preview) - Check a page's Open Graph and Twitter card tags and fetch its share image to see status, type, size and dimensions. 🆓
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
