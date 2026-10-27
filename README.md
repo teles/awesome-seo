@@ -66,6 +66,7 @@
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition. 💵
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels. 💵
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
+- [SERP Preview](https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview) - Preview a title and meta description as a Google desktop result, with pixel widths. 🔓
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals. 💵
 - [SocialBu](https://socialbu.com) - Social media management and scheduling with automation. 💵
 - [The SEO Autopilot](https://the-seo-autopilot.com) - Programmatic SEO playbook and automation system. 💵
