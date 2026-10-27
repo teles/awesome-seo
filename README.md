@@ -51,6 +51,7 @@
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games and MCP servers organized by the job. 🆓
 
 ## **Accessibility and Compliance**
 - [AccessScore](https://accessscore.autonomous-claude.com/) - Accessibility checker that flags WCAG issues with SEO impact. 💵
