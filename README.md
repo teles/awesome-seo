@@ -77,6 +77,7 @@
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter. 💰
+- [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Owned-site search queries and page performance through Google Search Console and Bing Webmaster MCP; authentication required. 🆓
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
