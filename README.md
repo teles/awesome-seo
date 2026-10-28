@@ -41,6 +41,7 @@
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
+- [Growcake](https://growcake.co) - SEO and GEO autopilot that finds opportunities, writes articles and publishes them to your CMS. 💵
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
