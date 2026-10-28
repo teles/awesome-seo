@@ -95,6 +95,7 @@
 ## **Rich Snippets and Structured Data**
 - [Aarunya Schema Generator](https://aarunyaapps.com/schema-generator) - JSON-LD schema generator. 💵
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
+- [CohesionStack Link Preview](https://www.cohesionstack.com/link-preview) - Preview share cards for LinkedIn, Facebook, X, Slack and WhatsApp from live Open Graph tags. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
