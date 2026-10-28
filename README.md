@@ -21,6 +21,7 @@
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
+ - [SEOMathLab](https://seomathlab.com/) - Free SEO forecasting, ROI and budget calculators with transparent formulas; includes a bulk forecast tool with CSV import and cashflow projections. 🆓
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
