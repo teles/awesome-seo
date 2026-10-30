@@ -95,6 +95,7 @@
 ## **Rich Snippets and Structured Data**
 - [Aarunya Schema Generator](https://aarunyaapps.com/schema-generator) - JSON-LD schema generator. 💵
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
+- [CurlShot](https://curlshot.com) - Screenshot API that renders a URL or your own HTML into an Open Graph image, PNG or PDF. 💵
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
