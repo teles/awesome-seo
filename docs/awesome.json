@@ -1,8 +1,8 @@
 {
   "title": "Awesome SEO",
   "description": "A curated list of SEO tools",
-  "lastUpdated": "2026-09-30T21:50:18.040Z",
-  "totalTools": 86,
+  "lastUpdated": "2026-10-31T19:15:47.132Z",
+  "totalTools": 128,
   "categories": [
     "AI Visibility and GEO",
     "Accessibility and Compliance",
@@ -25,6 +25,18 @@
       "url": "https://accessscore.autonomous-claude.com/",
       "description": "Accessibility checker that flags WCAG issues with SEO impact. 💵",
       "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "AEO Toolkit",
+      "url": "https://github.com/Advance-Labs/aeo-toolkit",
+      "description": "Open-source 44-check SEO/AEO audit suite with Chrome extension and npm packages. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "aeo-check",
+      "url": "https://github.com/pchewlo/aeo-check",
+      "description": "Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "AEOrank",
@@ -51,6 +63,12 @@
       "category": "Accessibility and Compliance"
     },
     {
+      "name": "AltoRank",
+      "url": "https://altorank.co",
+      "description": "Content-focused SEO platform (keyword research to drafts to publishing) with an open-source self-hosted option. 🔓",
+      "category": "Content and Social Media"
+    },
+    {
       "name": "AnswerLens",
       "url": "https://app.sfdj.net/",
       "description": "Audits pages for AI answer-engine visibility. 💵",
@@ -63,10 +81,28 @@
       "category": "Documentation and Guidelines"
     },
     {
+      "name": "Awesome Open-Source SEO",
+      "url": "https://github.com/ZensInk/awesome-open-source-seo",
+      "description": "Curated list of open-source SEO tools. 🔓",
+      "category": "Documentation and Guidelines"
+    },
+    {
       "name": "axe DevTools",
       "url": "https://www.deque.com/axe/devtools/",
       "description": "Accessibility testing tools by Deque. 💵",
       "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "backlink-guard",
+      "url": "https://github.com/zhuyansen/backlink-guard",
+      "description": "Open-source tool that vets backlink quality and detects spam patterns. 🔓",
+      "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "BotView",
+      "url": "https://botview.app/",
+      "description": "Free AI crawler access checker and AI-answer recommendation tool. 🆓",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "BrainFeed Schema Generators",
@@ -85,6 +121,12 @@
       "url": "https://app.buzzsumo.com",
       "description": "Analyze which content performs best for any topic or competition. 💵",
       "category": "Content and Social Media"
+    },
+    {
+      "name": "CallAI Tools",
+      "url": "https://callaiapi.com/en/tools",
+      "description": "100+ free client-side webmaster and SEO tools. 🆓",
+      "category": "Keyword and Competitor Research"
     },
     {
       "name": "ChatGPT Citation Checker",
@@ -111,16 +153,40 @@
       "category": "AI Visibility and GEO"
     },
     {
+      "name": "CohesionStack Link Preview",
+      "url": "https://www.cohesionstack.com/link-preview",
+      "description": "Free Open Graph and social card preview checker. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
       "name": "ContentStudio",
       "url": "https://app.contentstudio.io",
       "description": "Discover niche-relevant content and share it on your social media channels. 💵",
       "category": "Content and Social Media"
     },
     {
+      "name": "CrakSEO Search Console MCP",
+      "url": "https://docs.crakseo.com/mcp-servers/search-console",
+      "description": "Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "crawler-snapshot",
+      "url": "https://github.com/reidifydesign/crawler-snapshot",
+      "description": "Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "CrawlGraph",
       "url": "https://crawlgraph.com",
       "description": "Backlink analysis and competitor research. 💵",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "DeepSpider",
+      "url": "https://deepspider.ai/free-tools/",
+      "description": "12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "Diretrizes para Webmasters",
@@ -147,9 +213,21 @@
       "category": "AI Visibility and GEO"
     },
     {
+      "name": "Formgong Review Schema Generator",
+      "url": "https://formgong.com/en/tools/review-schema-generator/",
+      "description": "Free JSON-LD review schema generator. 🆓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
       "name": "GEO Optimizer",
       "url": "https://github.com/Auriti-Labs/geo-optimizer-skill",
       "description": "Open-source GEO toolkit that audits AI-crawler readiness. 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "geo-audit",
+      "url": "https://github.com/bln-design/geo-audit",
+      "description": "Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓",
       "category": "AI Visibility and GEO"
     },
     {
@@ -189,9 +267,27 @@
       "category": "Rich Snippets and Structured Data"
     },
     {
+      "name": "GSC Connector",
+      "url": "https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code",
+      "description": "Open-source MCP server bridging Claude and Google Search Console. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "GSC Indexer",
       "url": "https://github.com/toolsura/gsc-indexer",
       "description": "CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "gsc-hub",
+      "url": "https://github.com/izzipizzy/gsc-hub",
+      "description": "Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "gsc-index-triage",
+      "url": "https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage",
+      "description": "Open-source agent skill for Google Search Console indexing triage. 🔓",
       "category": "Analysis and Site Auditing"
     },
     {
@@ -199,6 +295,18 @@
       "url": "https://gtmetrix.com/",
       "description": "Measure your site’s Page Load Time, Total Page Size, and Total Requests. 💵",
       "category": "Performance and Speed"
+    },
+    {
+      "name": "HitMind robots.txt Generator",
+      "url": "https://hitmind.ai/tools/robots-txt-generator/",
+      "description": "Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "IMVASA SEO Audit",
+      "url": "https://seoaudit.imvasa.dev/free-seo-audit",
+      "description": "Free 210-check SEO audit covering technical, on-page, Core Web Vitals and AI readiness. 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "IndexFox",
@@ -225,6 +333,12 @@
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "LinkBunny",
+      "url": "https://getlinkbunny.com/tools/indexability-checker",
+      "description": "Free indexability and nofollow link checkers. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "LLM Pulse",
       "url": "https://llmpulse.ai",
       "description": "Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵",
@@ -237,10 +351,28 @@
       "category": "Performance and Speed"
     },
     {
+      "name": "Local Site Audit",
+      "url": "https://github.com/Stephen-Psaradellis/local-site-audit",
+      "description": "Open-source browser extension that audits sites for technical defects. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "looot-seo",
+      "url": "https://github.com/loootai/looot-seo",
+      "description": "Open-source self-hosted SEO workspace (rank tracking, SERP snapshots, backlinks). 🔓",
+      "category": "Keyword and Competitor Research"
+    },
+    {
       "name": "LovedByAI",
       "url": "https://www.lovedby.ai/",
       "description": "WordPress plugin that makes pages citable by AI search engines. 💰",
       "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Manifold MCP",
+      "url": "https://www.manifoldmcp.com",
+      "description": "Free MCP server exposing 15+ SEO tools (rankings, backlinks, keywords, GSC) to AI agents. 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "MergeFix",
@@ -261,10 +393,22 @@
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Open-source tracker for emerging keywords mined from X, GitHub and Hugging Face. 🔓",
+      "category": "Keyword and Competitor Research"
+    },
+    {
       "name": "nextjs-jsonld-schema",
       "url": "https://github.com/Aghefendi/nextjs-jsonld-schema",
       "description": "Next.js library for JSON-LD structured data. 🔓",
       "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "NoindexWatch",
+      "url": "https://noindexwatch.com/tools",
+      "description": "Free noindex, robots.txt and AI-bot access checkers. 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "NotFair",
@@ -315,6 +459,12 @@
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "Orkkid AI Citation Checker",
+      "url": "https://orkkid.com/tools/ai-citation-checker",
+      "description": "Free tool that tests ChatGPT and Perplexity citations in real time. 🆓",
+      "category": "AI Visibility and GEO"
+    },
+    {
       "name": "Oxwyn Schema Generator",
       "url": "https://www.oxwynstudio.com/tools/schema-generator",
       "description": "Client-side LocalBusiness JSON-LD generator. 🆓",
@@ -325,6 +475,18 @@
       "url": "https://pageguard.org/",
       "description": "Website health scanner for accessibility, SEO and performance. 💵",
       "category": "Accessibility and Compliance"
+    },
+    {
+      "name": "PageLens AI Crawler Checker",
+      "url": "https://pagelens.io/tools/ai-crawler-checker",
+      "description": "Free checker for GPTBot, ClaudeBot and PerplexityBot access. 🆓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "PasteZap Sitemap Validator",
+      "url": "https://pastezap.com/tools/xml-sitemap-validator/",
+      "description": "Free XML sitemap validator. 🆓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "PromptEden",
@@ -339,6 +501,30 @@
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "Quietwatch Noindex Checker",
+      "url": "https://quietwatch.app/tools/noindex-checker",
+      "description": "Free noindex checker inspecting meta, headers, redirects and X-Robots-Tag. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "RankAgent",
+      "url": "https://www.therankagent.com/tools/ai-crawler-checker",
+      "description": "Free AI crawler checker, llms.txt generator and schema generator. 🆓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "RankGuru",
+      "url": "https://ndcompany.in/tools/rankguru",
+      "description": "Free on-page SEO checker with competitor comparison. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "RankProof",
+      "url": "https://github.com/CometWeb-io/rankproof",
+      "description": "Open-source SERP visibility and backlink auditor using Bing, DuckDuckGo and Mojeek. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "RatedWithAI",
       "url": "https://ratedwithai.com",
       "description": "Accessibility scanner powered by axe-core. 💵",
@@ -349,6 +535,12 @@
       "url": "https://raventools.com/",
       "description": "SEO software focused on site audits and rank tracking. 💰",
       "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "readable-by-ai",
+      "url": "https://github.com/vladIDH/readable-by-ai",
+      "description": "Open-source checker for AI crawler access, JS-only content and schema. 🔓",
+      "category": "AI Visibility and GEO"
     },
     {
       "name": "Schema.org Full List Documentation",
@@ -381,10 +573,22 @@
       "category": "Content and Social Media"
     },
     {
+      "name": "Sempite",
+      "url": "https://sempite.com/tools/site-audit",
+      "description": "Free site audit covering crawlability, on-page, speed, structured data and AI readiness. 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "SemRush",
       "url": "http://www.semrush.com/",
       "description": "Comprehensive tool for analyzing website keywords. 💵",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "SEO Audit Toolkit",
+      "url": "https://github.com/hustlemarketers-art/seo-audit-toolkit",
+      "description": "Open-source Python sitemap crawler and Search Console overlap finder. 🔓",
+      "category": "Analysis and Site Auditing"
     },
     {
       "name": "SEO Command Center",
@@ -411,16 +615,40 @@
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "SEOMathLab",
+      "url": "https://seomathlab.com/",
+      "description": "67+ free SEO calculators (traffic forecast, ROI, budget, content planning). 🆓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "SEOPeek",
       "url": "https://seopeek.web.app",
       "description": "Lightweight SEO audit API with 20 checks. 💵",
       "category": "Analysis and Site Auditing"
     },
     {
+      "name": "SERP Preview",
+      "url": "https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview",
+      "description": "Open-source SERP snippet preview tool. 🔓",
+      "category": "Rich Snippets and Structured Data"
+    },
+    {
+      "name": "SERP to Prompt Writer",
+      "url": "https://github.com/aivrar/serp-to-prompt-writer",
+      "description": "Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓",
+      "category": "Keyword and Competitor Research"
+    },
+    {
       "name": "SGEO",
       "url": "https://www.sgeo.it.com/",
       "description": "SEO/GEO automation platform with schema injection and AI agents. 💵",
       "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "ShareScan",
+      "url": "https://sharescan.io/scan",
+      "description": "Free Open Graph / link preview scanner with public reports. 🆓",
+      "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "Shipwork",
@@ -439,6 +667,18 @@
       "url": "https://sitedata.dev/",
       "description": "Reverse-AdSense and ad-intelligence research. 💰",
       "category": "Keyword and Competitor Research"
+    },
+    {
+      "name": "Skald Analytics",
+      "url": "https://skaldanalytics.com/",
+      "description": "Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓",
+      "category": "AI Visibility and GEO"
+    },
+    {
+      "name": "Social Card Checker",
+      "url": "https://radarmakers.com/tools/social-card-preview",
+      "description": "Free Open Graph social card preview. 🆓",
+      "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "SocialBu",
@@ -465,6 +705,12 @@
       "category": "Content and Social Media"
     },
     {
+      "name": "Toadstone",
+      "url": "https://github.com/spcaeo/toadstone",
+      "description": "Open-source self-hosted SEO crawler with 220+ checks, JS rendering and MCP. 🔓",
+      "category": "Analysis and Site Auditing"
+    },
+    {
       "name": "toprank",
       "url": "https://github.com/nowork-studio/toprank",
       "description": "Open-source marketing and SEO skills for AI coding agents. 🔓",
@@ -481,6 +727,12 @@
       "url": "https://ubersuggest.com/",
       "description": "Free SEO tool specializing in generating keyword ideas. 💵",
       "category": "Analysis and Site Auditing"
+    },
+    {
+      "name": "Uttily JSON-LD Generator",
+      "url": "https://seo.uttily.com/json-ld-generator",
+      "description": "Free browser-based JSON-LD schema generator. 🆓",
+      "category": "Rich Snippets and Structured Data"
     },
     {
       "name": "vercel-seo-audit",
