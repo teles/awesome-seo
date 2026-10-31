@@ -7,6 +7,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [212 Medya ROAS Simulator](https://212medya.com.tr/araclar/reklam-butcesi-roas-hesaplayici/) - Interactive ad budget, Target CPA, and Break-Even ROAS simulator across 20 industry benchmarks with Google Ads auction curves. 🆓
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
