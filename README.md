@@ -37,6 +37,9 @@
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Audit Toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) - Open-source Python sitemap crawler and Search Console overlap finder. 🔓
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
+- [SEOAudit](https://seoaudit.com.ua/) - Technical website SEO audit and Core Web Vitals diagnostic tool for e-commerce. 🆓
+- [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - Free instant website SEO health, meta inspection and Core Web Vitals audit. 🆓
+- [seocheck-cli](https://github.com/romangrid/seocheck-cli) - Open-source CLI SEO auditor and Core Web Vitals diagnostic tool powered by SEOCheck-AI. 🔓
 - [SEOMathLab](https://seomathlab.com/) - 67+ free SEO calculators (traffic forecast, ROI, budget, content planning). 🆓
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Sempite](https://sempite.com/tools/site-audit) - Free site audit covering crawlability, on-page, speed, structured data and AI readiness. 🆓
