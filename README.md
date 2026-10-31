@@ -41,6 +41,7 @@
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Sempite](https://sempite.com/tools/site-audit) - Free site audit covering crawlability, on-page, speed, structured data and AI readiness. 🆓
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
+- [Sitequiry](https://sitequiry.com/) - Free website check for SEO, Google PageSpeed and AI-readiness signals (AEO and GEO), with an optional paid multi-page report. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
 - [Toadstone](https://github.com/spcaeo/toadstone) - Open-source self-hosted SEO crawler with 220+ checks, JS rendering and MCP. 🔓
