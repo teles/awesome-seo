@@ -160,4 +160,5 @@
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
 - 🇬🇧 [The Definitive Guide to SEO for this year](https://backlinko.com/seo-this-year) - Comprehensive SEO guide for 2024.
+- 🇬🇧 [Where to Promote Your Startup](https://mediapronet.com/where-to-promote-your-startup) - Guide to 213 places to promote a startup, filterable by cost, link type and channel.
 
