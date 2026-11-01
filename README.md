@@ -53,6 +53,7 @@
 - [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) - Open-source 44-check SEO/AEO audit suite with Chrome extension and npm packages. 🔓
 - [aeo-check](https://github.com/pchewlo/aeo-check) - Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
+- [AI Crawler Access Checker](https://313automations.com/free-tools/ai-crawler-access-checker) - Free robots.txt checker for 22 AI crawlers (answer engines, on-request fetchers, training bots) with llms.txt detection and a copyable robots.txt block. 🆓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
@@ -63,6 +64,7 @@
 - [geo-audit](https://github.com/bln-design/geo-audit) - Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
+- [GEO Readiness Checklist](https://313automations.com/free-tools/geo-readiness-checklist) - Free 20-point weighted GEO self-assessment with a readiness score and top 5 priorities. 🆓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
 - [HitMind robots.txt Generator](https://hitmind.ai/tools/robots-txt-generator/) - Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
@@ -137,6 +139,7 @@
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
+- [Local Business Schema Generator](https://313automations.com/free-tools/local-business-schema-generator) - Free LocalBusiness JSON-LD generator for 12 business types. 🆓
 - [nextjs-jsonld-schema](https://github.com/Aghefendi/nextjs-jsonld-schema) - Next.js library for JSON-LD structured data. 🔓
 - [ogimg.xyz](https://ogimg.xyz/) - Open Graph image generation API. 💵
 - [OmniSEO Tools](https://omniseotools.com) - 45 free client-side SEO, meta and schema utilities. 🆓
