@@ -119,6 +119,7 @@
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
+- [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown) - Agent skill that finds a site's competitors and compares their traffic, channel mix, keywords, backlinks and DR; needs a paid AIsa API key. 🔓
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
 ## **Performance and Speed**
