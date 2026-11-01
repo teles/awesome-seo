@@ -119,6 +119,7 @@
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
+- [WordRadar](https://www.wordradar.dev) - Live keyword radar tracking first-seen dates on a million-word Google suggest ledger, with HN launch tracking and SERP difficulty. 💵
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
 ## **Performance and Speed**
