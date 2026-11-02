@@ -7,6 +7,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free Claude Code plugin for SEO audits, content plans, schema markup and link checks. 🔓
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
