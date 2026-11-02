@@ -147,6 +147,7 @@
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [SERP Preview](https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview) - Open-source SERP snippet preview tool. 🔓
 - [ShareScan](https://sharescan.io/scan) - Free Open Graph / link preview scanner with public reports. 🆓
+- [Shareglint](https://shareglint.com/) - Open Graph image API that renders og:image cards from HTML/CSS templates, with a no-code auto tag. 💵
 - [Social Card Checker](https://radarmakers.com/tools/social-card-preview) - Free Open Graph social card preview. 🆓
 - [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Free browser-based JSON-LD schema generator. 🆓
 
