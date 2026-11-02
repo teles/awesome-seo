@@ -42,6 +42,7 @@
 - [Sempite](https://sempite.com/tools/site-audit) - Free site audit covering crawlability, on-page, speed, structured data and AI readiness. 🆓
 - [Shipwork](https://shipwork.io/) - Inspect your site the way Google and AI crawlers see it, with 83 free checks. 💵
 - [squirrelscan](https://squirrelscan.com/) - Website QA/audit CLI for coding agents, with 295+ rules and exact fixes. 🔓
+- [Storvexa Website Check](https://storvexa.com/website-audit) - Free 15-point check of security, speed, on-page SEO and mobile, with a score out of 100 and no sign-up. 🆓
 - [Superflow](https://usesuperflow.ai/) - AI QA review agents for websites, with free SEO and meta utilities. 💵
 - [Toadstone](https://github.com/spcaeo/toadstone) - Open-source self-hosted SEO crawler with 220+ checks, JS rendering and MCP. 🔓
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
