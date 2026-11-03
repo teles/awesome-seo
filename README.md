@@ -126,6 +126,7 @@
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips. 🆓
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests. 💵
 - [Loader.io](https://loader.io/) - Cloud-based load testing. 💵
+- [Tobby Tools Core Web Vitals Checker](https://tobbytools.github.io/) - Free checker for real-user LCP, INP and CLS (CrUX) plus canonical and noindex tags. 🆓
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed. 🆓
 
 ## **Rich Snippets and Structured Data**
