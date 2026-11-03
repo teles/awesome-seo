@@ -21,6 +21,7 @@
 - [LinkBunny](https://getlinkbunny.com/tools/indexability-checker) - Free indexability and nofollow link checkers. 🆓
 - [Local Site Audit](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source browser extension that audits sites for technical defects. 🔓
 - [Manifold MCP](https://www.manifoldmcp.com) - Free MCP server exposing 15+ SEO tools (rankings, backlinks, keywords, GSC) to AI agents. 🆓
+- [mcpmarketing.ai](https://mcpmarketing.ai) - Free directory of over 150 MCP servers for SEO, ads, analytics, CRM and email, with setup notes for each. 🆓
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [NoindexWatch](https://noindexwatch.com/tools) - Free noindex, robots.txt and AI-bot access checkers. 🆓
