@@ -59,6 +59,7 @@
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
 - [Cited By AI](https://citedbyai.info) - Block-level AI citation auditing across a 28-module rubric. 💵
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
+- [Elivate SEO Audit](https://elivateseo.com/audit) - Free, no-sign-up audit of AI-crawler access (training vs retrieval), llms.txt, robots.txt, sitemap and structured data. 🆓
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
 - [geo-audit](https://github.com/bln-design/geo-audit) - Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
