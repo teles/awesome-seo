@@ -57,6 +57,7 @@
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
+- [Cite Unseen](https://citeunseen.io) - Free scan of what your site tells answer engines (crawler rules, sitemaps, canonicals, structured data, raw-HTML text), plus paid human-reviewed audits. 💵
 - [Cited By AI](https://citedbyai.info) - Block-level AI citation auditing across a 28-module rubric. 💵
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
