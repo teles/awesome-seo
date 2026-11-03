@@ -54,6 +54,7 @@
 - [aeo-check](https://github.com/pchewlo/aeo-check) - Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
+- [Ajay Padhy AI Crawler Checker](https://ajaypadhy.com/tools/ai-crawler-checker) - Free robots.txt and firewall test for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot and Googlebot. 🆓
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
@@ -130,6 +131,7 @@
 
 ## **Rich Snippets and Structured Data**
 - [Aarunya Schema Generator](https://aarunyaapps.com/schema-generator) - JSON-LD schema generator. 💵
+- [Ajay Padhy Schema Markup Generator](https://ajaypadhy.com/tools/schema-markup-generator) - Free JSON-LD generator for 12 schema types with required-field checks. 🆓
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
 - [CohesionStack Link Preview](https://www.cohesionstack.com/link-preview) - Free Open Graph and social card preview checker. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
