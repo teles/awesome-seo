@@ -118,6 +118,7 @@
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
+- [SerpKite](https://serpkite.com/) - Google SERP API with rank checks for a domain across the top 100. 💵
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
