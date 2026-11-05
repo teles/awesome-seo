@@ -113,6 +113,7 @@
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
+- [LinkDR Backlink Checker](https://linkdr.com/backlink-checker) - Free competitor backlink checker showing in-content dofollow links from DR 30+ domains. 🆓
 - [looot-seo](https://github.com/loootai/looot-seo) - Open-source self-hosted SEO workspace (rank tracking, SERP snapshots, backlinks). 🔓
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Open-source tracker for emerging keywords mined from X, GitHub and Hugging Face. 🔓
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
