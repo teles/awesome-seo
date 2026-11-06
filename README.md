@@ -61,6 +61,7 @@
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
 - [geo-audit](https://github.com/bln-design/geo-audit) - Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓
+- [geojiance](https://geojiance.org/) - Free GEO audit for AI crawler access: enter a URL and get a report on whether AI crawlers can read the site. Matches robots.txt against 21 named crawlers (GPTBot, ClaudeBot, PerplexityBot, Bytespider and others) and can audit server logs for crawler hits. Chinese-language UI. 🆓
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
