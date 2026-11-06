@@ -75,6 +75,7 @@
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
 - [RankAgent](https://www.therankagent.com/tools/ai-crawler-checker) - Free AI crawler checker, llms.txt generator and schema generator. 🆓
 - [readable-by-ai](https://github.com/vladIDH/readable-by-ai) - Open-source checker for AI crawler access, JS-only content and schema. 🔓
+- [ReputeMap AI Visibility Checker](https://reputemap.com/tools/ai-visibility-check) - Checks whether an AI assistant with live web search names a local business for its category and city (1 free check a week). 💵
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
