@@ -24,6 +24,7 @@
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [NoindexWatch](https://noindexwatch.com/tools) - Free noindex, robots.txt and AI-bot access checkers. 🆓
+- [one-hop](https://synapsereality.io/open-source/one-hop/) - Open-source CLI and GitHub Action that tests every redirect in a site-move map is one permanent hop to a live page. 🔓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [PasteZap Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Free XML sitemap validator. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
