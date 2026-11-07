@@ -16,6 +16,7 @@
 - [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓
 - [gsc-index-triage](https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage) - Open-source agent skill for Google Search Console indexing triage. 🔓
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
+- [GSC PAP](https://gscpap.com/) - Hosted MCP server giving AI assistants read-only access to Search Console, GA4 and PageSpeed data, with history past 16 months. 🆓
 - [IMVASA SEO Audit](https://seoaudit.imvasa.dev/free-seo-audit) - Free 210-check SEO audit covering technical, on-page, Core Web Vitals and AI readiness. 🆓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
 - [LinkBunny](https://getlinkbunny.com/tools/indexability-checker) - Free indexability and nofollow link checkers. 🆓
