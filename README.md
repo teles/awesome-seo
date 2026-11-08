@@ -25,6 +25,7 @@
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [NoindexWatch](https://noindexwatch.com/tools) - Free noindex, robots.txt and AI-bot access checkers. 🆓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
+- [PageUtil Sitemap Comparison](https://pageutil.com/sitemap-compare/) - Free XML sitemap comparison tool for added, removed and metadata-changed URLs. 🆓
 - [PasteZap Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Free XML sitemap validator. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
 - [Quietwatch Noindex Checker](https://quietwatch.app/tools/noindex-checker) - Free noindex checker inspecting meta, headers, redirects and X-Robots-Tag. 🆓
