@@ -93,6 +93,7 @@
 
 ## **Content and Social Media**
 - [AltoRank](https://altorank.co) - Content-focused SEO platform (keyword research to drafts to publishing) with an open-source self-hosted option. 🔓
+- [BLOG.md](https://github.com/kingadow/blog-md) - Open-source blog system for Claude: SEO setup with free tools, topic research from search data, a writing skill and an Astro starter. 🔓
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition. 💵
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels. 💵
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
