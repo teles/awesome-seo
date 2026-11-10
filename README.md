@@ -95,6 +95,7 @@
 - [AltoRank](https://altorank.co) - Content-focused SEO platform (keyword research to drafts to publishing) with an open-source self-hosted option. 🔓
 - [Buzzsumo](https://app.buzzsumo.com) - Analyze which content performs best for any topic or competition. 💵
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels. 💵
+- [PolyDraft](https://polydraft.ai) - AI website builder that researches, writes, and builds a complete site from a business brief, then publishes to infrastructure the customer owns. 💵
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals. 💵
 - [SocialBu](https://socialbu.com) - Social media management and scheduling with automation. 💵
