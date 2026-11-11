@@ -72,6 +72,7 @@
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free tool that tests ChatGPT and Perplexity citations in real time. 🆓
 - [PageLens AI Crawler Checker](https://pagelens.io/tools/ai-crawler-checker) - Free checker for GPTBot, ClaudeBot and PerplexityBot access. 🆓
+- [Pineprompt](https://pineprompt.com) - AI search visibility monitoring that tracks brand mentions, position, sentiment and cited sources across ChatGPT, Gemini, Claude, Google AI Overviews and Google AI Mode. Free llms.txt generator and validator at pineprompt.com/tools. 💰
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
 - [RankAgent](https://www.therankagent.com/tools/ai-crawler-checker) - Free AI crawler checker, llms.txt generator and schema generator. 🆓
 - [readable-by-ai](https://github.com/vladIDH/readable-by-ai) - Open-source checker for AI crawler access, JS-only content and schema. 🔓
