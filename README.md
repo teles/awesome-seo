@@ -79,6 +79,7 @@
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
+- [USA Marketing Pros AI Visibility Checker](https://usamarketingpros.com/free-seo-tools/ai-visibility-checker/) - Free AI search readiness score covering AI-crawler access, schema, content and mobile speed. 🆓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
 ## **Accessibility and Compliance**
@@ -148,6 +149,7 @@
 - [SERP Preview](https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview) - Open-source SERP snippet preview tool. 🔓
 - [ShareScan](https://sharescan.io/scan) - Free Open Graph / link preview scanner with public reports. 🆓
 - [Social Card Checker](https://radarmakers.com/tools/social-card-preview) - Free Open Graph social card preview. 🆓
+- [USA Marketing Pros LocalBusiness Schema Generator](https://usamarketingpros.com/free-seo-tools/local-business-schema-generator/) - Free LocalBusiness JSON-LD generator, also available as a Chrome extension. 🆓
 - [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Free browser-based JSON-LD schema generator. 🆓
 
 ## **Articles and eBooks**
