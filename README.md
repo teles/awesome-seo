@@ -64,6 +64,7 @@
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
+- [GeoPromptTracker](https://geoprompttracker.com/tools) - Free browser-based GEO tools: llms.txt validator, AI crawler access checker, AI bot log analyzer. 🆓
 - [HitMind robots.txt Generator](https://hitmind.ai/tools/robots-txt-generator/) - Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
@@ -153,6 +154,7 @@
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - �🇧 [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - Research on how many sites block GPTBot, ClaudeBot and CCBot.
+- 🇬🇧 [AI Crawler robots.txt Study](https://geoprompttracker.com/research/ai-crawler-robots-txt-study) - Which of 28 AI crawlers the Tranco top 10,000 sites block in robots.txt, with open CC-BY data.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
 - 🇬🇧 [SEO Knowledge Base (XKnow)](https://xknow.org/vaults/seo/) - A cross-linked, agent-queryable SEO knowledge base (paid).
 - 🇬🇧 [How Online Reviews Impact Local SEO](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line) - Explore how reviews affect local SEO.
