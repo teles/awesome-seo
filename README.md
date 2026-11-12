@@ -156,6 +156,7 @@
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
 - 🇬🇧 [SEO Knowledge Base (XKnow)](https://xknow.org/vaults/seo/) - A cross-linked, agent-queryable SEO knowledge base (paid).
 - 🇬🇧 [How Online Reviews Impact Local SEO](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line) - Explore how reviews affect local SEO.
+- 🇬🇧 [Small Business AI Visibility Guides](https://github.com/showmegeo/small-business-ai-visibility-guides) - Free local SEO + GEO guides per business type (salons, gyms, cafes, clinics), also in Polish, Ukrainian and Russian.
 - 🇬🇧 [How to Rank in 2018: The SEO Checklist](https://moz.com/blog/rank-in-2018-seo-checklist) - SEO checklist for ranking in Google.
 - 🇬🇧 [How to Write Great Schema Markup for Your Company](https://www.semrush.com/blog/schema-markup-for-company-corporations) - SEMrush guide on writing effective schema markup.
 - 🇬🇧 [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/) - How developers can optimize websites for SEO.
