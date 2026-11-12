@@ -31,6 +31,7 @@
 - [RankGuru](https://ndcompany.in/tools/rankguru) - Free on-page SEO checker with competitor comparison. 🆓
 - [RankProof](https://github.com/CometWeb-io/rankproof) - Open-source SERP visibility and backlink auditor using Bing, DuckDuckGo and Mojeek. 🔓
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
+- [Relvato](https://www.relvato.com/) - Monitors indexability, sitemaps, redirects and AI-answer readiness, and re-runs them after site updates. 💵
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
