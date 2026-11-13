@@ -79,6 +79,7 @@
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
+- [Veritas AI Crawler Checker](https://www.getveritas.io/tools/ai-crawler-checker) - Free checker for which AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot) a site's robots.txt allows or blocks. 🆓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
 ## **Accessibility and Compliance**
