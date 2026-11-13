@@ -78,6 +78,7 @@
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
+- [TomHow llms.txt Builder](https://tomhow.co.uk/tools/llms-txt-builder/) - Free template-based llms.txt generator for business websites, no API calls or sign-up. 🆓
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
@@ -148,6 +149,7 @@
 - [SERP Preview](https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview) - Open-source SERP snippet preview tool. 🔓
 - [ShareScan](https://sharescan.io/scan) - Free Open Graph / link preview scanner with public reports. 🆓
 - [Social Card Checker](https://radarmakers.com/tools/social-card-preview) - Free Open Graph social card preview. 🆓
+- [TomHow Schema Generator](https://tomhow.co.uk/tools/schema-generator/) - Free JSON-LD generator for LocalBusiness, Organization, Service, FAQ, Article, Product and breadcrumb markup, no sign-up. 🆓
 - [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Free browser-based JSON-LD schema generator. 🆓
 
 ## **Articles and eBooks**
