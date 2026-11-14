@@ -12,6 +12,7 @@
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
 - [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓
 - [DeepSpider](https://deepspider.ai/free-tools/) - 12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓
+- [Denwix SEO Crawler](https://denwix.com/denwix-seo-crawler/) - Browser-based website crawler for technical SEO audits — flags broken links, redirects, duplicate titles and missing meta across a whole site. 🆓
 - [GSC Connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) - Open-source MCP server bridging Claude and Google Search Console. 🔓
 - [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓
 - [gsc-index-triage](https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage) - Open-source agent skill for Google Search Console indexing triage. 🔓
