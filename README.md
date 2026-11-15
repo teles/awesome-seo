@@ -69,6 +69,7 @@
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
+- [NitroSERP](https://www.nitroserp.com/tools/chatgpt-visibility-checker) - Free AI crawler visibility checker, llms.txt generator and 50+ browser SEO utilities. 🆓
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free tool that tests ChatGPT and Perplexity citations in real time. 🆓
 - [PageLens AI Crawler Checker](https://pagelens.io/tools/ai-crawler-checker) - Free checker for GPTBot, ClaudeBot and PerplexityBot access. 🆓
