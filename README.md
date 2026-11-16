@@ -27,6 +27,7 @@
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [PasteZap Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Free XML sitemap validator. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
+- [QueryTrove](https://querytrove.com/) - Keeps your Google Search Console data daily past the 16-month limit, with period compares, drop alerts, CSV export and a read-only MCP server. 💵
 - [Quietwatch Noindex Checker](https://quietwatch.app/tools/noindex-checker) - Free noindex checker inspecting meta, headers, redirects and X-Robots-Tag. 🆓
 - [RankGuru](https://ndcompany.in/tools/rankguru) - Free on-page SEO checker with competitor comparison. 🆓
 - [RankProof](https://github.com/CometWeb-io/rankproof) - Open-source SERP visibility and backlink auditor using Bing, DuckDuckGo and Mojeek. 🔓
