@@ -33,6 +33,7 @@
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
+- [searchVIU Free SEO Tools](https://www.searchviu.com/en/tools/) - Free checkers for status codes, redirects, robots.txt, XML sitemaps, hreflang and JavaScript rendering. 🆓
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Audit Toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) - Open-source Python sitemap crawler and Search Console overlap finder. 🔓
@@ -75,6 +76,7 @@
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
 - [RankAgent](https://www.therankagent.com/tools/ai-crawler-checker) - Free AI crawler checker, llms.txt generator and schema generator. 🆓
 - [readable-by-ai](https://github.com/vladIDH/readable-by-ai) - Open-source checker for AI crawler access, JS-only content and schema. 🔓
+- [searchVIU GEO Check](https://www.searchviu.com/en/geo-check/) - Free check of AI crawler access, content without JavaScript, llms.txt and structured data. 🆓
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
@@ -122,7 +124,6 @@
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
 ## **Performance and Speed**
-- [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google. 🆓
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips. 🆓
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests. 💵
 - [Loader.io](https://loader.io/) - Cloud-based load testing. 💵
