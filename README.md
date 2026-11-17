@@ -37,6 +37,7 @@
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Audit Toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) - Open-source Python sitemap crawler and Search Console overlap finder. 🔓
 - [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted SEO platform built on the DataForSEO API. 🔓
+- [SEOBolt](https://seobolt.app) - Crawler-backed SEO and AI-search audit with a fix plan a coding agent can apply over MCP. 💰
 - [SEOMathLab](https://seomathlab.com/) - 67+ free SEO calculators (traffic forecast, ROI, budget, content planning). 🆓
 - [SEOPeek](https://seopeek.web.app) - Lightweight SEO audit API with 20 checks. 💵
 - [Sempite](https://sempite.com/tools/site-audit) - Free site audit covering crawlability, on-page, speed, structured data and AI readiness. 🆓
