@@ -64,6 +64,7 @@
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
+- [Google AI Overview API](https://apify.com/johnvc/Google-AI-Overview-API) - Hosted Apify API that returns the Google AI Overview text and its cited sources for a query as JSON. 💰
 - [HitMind robots.txt Generator](https://hitmind.ai/tools/robots-txt-generator/) - Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
