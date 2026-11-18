@@ -151,6 +151,7 @@
 - [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Free browser-based JSON-LD schema generator. 🆓
 
 ## **Articles and eBooks**
+- 🇫🇷 [Hi-Commerce Blog](https://www.hi-commerce.fr/tout-savoir-sur-le-commerce/) - SEO blog covering semantic clusters, GEO LLM and e-commerce strategy (French).
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - �🇧 [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - Research on how many sites block GPTBot, ClaudeBot and CCBot.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
