@@ -19,6 +19,7 @@
 - [IMVASA SEO Audit](https://seoaudit.imvasa.dev/free-seo-audit) - Free 210-check SEO audit covering technical, on-page, Core Web Vitals and AI readiness. 🆓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
 - [LinkBunny](https://getlinkbunny.com/tools/indexability-checker) - Free indexability and nofollow link checkers. 🆓
+- [Listvane](https://listvane.com/) - Scans an online store's public pages for what Google Merchant Center reviews flag (policies, contact details, price markup, placeholder text). 💰
 - [Local Site Audit](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source browser extension that audits sites for technical defects. 🔓
 - [Manifold MCP](https://www.manifoldmcp.com) - Free MCP server exposing 15+ SEO tools (rankings, backlinks, keywords, GSC) to AI agents. 🆓
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
