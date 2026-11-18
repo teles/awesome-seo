@@ -53,6 +53,7 @@
 - [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) - Open-source 44-check SEO/AEO audit suite with Chrome extension and npm packages. 🔓
 - [aeo-check](https://github.com/pchewlo/aeo-check) - Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
+- [AI Search Analyzer](https://aisearchanalyzer.com) - Shows what ChatGPT, Gemini, Claude and Perplexity say about a business and audits the site with 157 SEO and AI search checks. 💵
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
