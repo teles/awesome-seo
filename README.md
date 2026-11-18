@@ -46,6 +46,7 @@
 - [Toadstone](https://github.com/spcaeo/toadstone) - Open-source self-hosted SEO crawler with 220+ checks, JS rendering and MCP. 🔓
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas. 💵
 - [vercel-seo-audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI SEO audit for Next.js projects. 🔓
+- [Wardzo](https://wardzo.com) - Scan and monitor websites for leaked keys, exposed files, security headers, SEO issues and uptime. 🆓
 - [WebsiteReady](https://websiteready.org/) - Free pre-launch website checklist with AI-readiness checks. 🆓
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
 
