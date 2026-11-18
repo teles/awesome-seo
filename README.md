@@ -116,6 +116,7 @@
 - [looot-seo](https://github.com/loootai/looot-seo) - Open-source self-hosted SEO workspace (rank tracking, SERP snapshots, backlinks). 🔓
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Open-source tracker for emerging keywords mined from X, GitHub and Hugging Face. 🔓
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
+- [Rowfeed SEO Data](https://apify.com/rowfeed) - Pay-per-use APIs for keyword search volume, keyword gaps, backlinks, DA/PA and traffic estimates, also usable by AI agents over MCP. 💰
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
