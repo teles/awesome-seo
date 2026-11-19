@@ -48,6 +48,7 @@
 - [vercel-seo-audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI SEO audit for Next.js projects. 🔓
 - [WebsiteReady](https://websiteready.org/) - Free pre-launch website checklist with AI-readiness checks. 🆓
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria. 💵
+- [ZoneBI](https://zonebi.com/en/?src=gh-awesome-seo-en-01) - Monitors your site for accidental noindex, robots.txt blocking, http-to-https redirect problems, SSL expiry and downtime, alongside DNS and email checks. 💵
 
 ## **AI Visibility and GEO**
 - [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) - Open-source 44-check SEO/AEO audit suite with Chrome extension and npm packages. 🔓
