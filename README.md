@@ -112,6 +112,7 @@
 - [CallAI Tools](https://callaiapi.com/en/tools) - 100+ free client-side webmaster and SEO tools. 🆓
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
+- [Google Trends Scraper](https://apify.com/granola2/google-trends-scraper) - Compares any number of keywords on one Google Trends 0-100 scale, with related queries, regional interest and trending searches. 💵
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
 - [looot-seo](https://github.com/loootai/looot-seo) - Open-source self-hosted SEO workspace (rank tracking, SERP snapshots, backlinks). 🔓
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Open-source tracker for emerging keywords mined from X, GitHub and Hugging Face. 🔓
