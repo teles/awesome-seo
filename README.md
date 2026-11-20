@@ -24,6 +24,7 @@
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
 - [Mydentify](https://mydentify.com/tools) - Free technical-SEO tools for sitemap health, crawler access and more. 🆓
 - [NoindexWatch](https://noindexwatch.com/tools) - Free noindex, robots.txt and AI-bot access checkers. 🆓
+- [Optia](https://github.com/PMDevSolutions/Optia) - Open-source Chrome extension that scores on-page SEO for a target keyword and lists fixes; optional paid tier for AI suggestions. 🔓
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments. 💵
 - [PasteZap Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Free XML sitemap validator. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
