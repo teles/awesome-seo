@@ -68,6 +68,7 @@
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
+- [MentionsAPI](https://mentionsapi.com) - API and hosted MCP that checks, watches, discovers and compares brand mentions across ChatGPT, Claude, Gemini and Perplexity. 💵
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free tool that tests ChatGPT and Perplexity citations in real time. 🆓
