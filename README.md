@@ -58,6 +58,7 @@
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
 - [Cited By AI](https://citedbyai.info) - Block-level AI citation auditing across a 28-module rubric. 💵
+- [CiteReady CLI](https://github.com/zColdWater/citeready-cli) - Zero-dependency CLI that audits AI-crawler robots.txt access, llms.txt compliance and Schema.org JSON-LD. 🔓
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
 - [geo-audit](https://github.com/bln-design/geo-audit) - Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓
