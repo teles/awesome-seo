@@ -66,6 +66,7 @@
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
 - [HitMind robots.txt Generator](https://hitmind.ai/tools/robots-txt-generator/) - Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
+- [LaunchScaler AI Crawler Checker](https://www.launchscaler.com/tools/ai-crawler-checker) - Free check of which AI crawlers a robots.txt allows and what each one receives. 🆓
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
