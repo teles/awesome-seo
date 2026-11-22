@@ -28,6 +28,7 @@
 - [PasteZap Sitemap Validator](https://pastezap.com/tools/xml-sitemap-validator/) - Free XML sitemap validator. 🆓
 - [pSEOlint](https://pseolint.dev) - Programmatic-SEO auditor with SpamBrain and AEO checks. 💵
 - [Quietwatch Noindex Checker](https://quietwatch.app/tools/noindex-checker) - Free noindex checker inspecting meta, headers, redirects and X-Robots-Tag. 🆓
+- [RankBrain AI](https://access.rankbrain.app/awesome-seo) - SEO MCP server that plugs into the AI tool you already use, reads your site, and applies fixes to page titles, meta descriptions, schema markup and link text after you approve each change. 💰
 - [RankGuru](https://ndcompany.in/tools/rankguru) - Free on-page SEO checker with competitor comparison. 🆓
 - [RankProof](https://github.com/CometWeb-io/rankproof) - Open-source SERP visibility and backlink auditor using Bing, DuckDuckGo and Mojeek. 🔓
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
