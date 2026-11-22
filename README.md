@@ -33,6 +33,7 @@
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking. 💰
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits. 💵
 - [Screpy](https://screpy.com/) - AI-assisted SEO audits, crawling, rank tracking and monitoring. 💵
+- [FieldOS Website Grader](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader) - Free instant website grader. Enter any URL for a 0-100 score across 12 mobile, speed, SEO, contact and social checks with prioritized fixes. No signup. 🆓
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools. 💵
 - [seo-agent](https://github.com/dannwaneri/seo-agent) - Open-source Python agent that runs on-page SEO audits. 🔓
 - [SEO Audit Toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) - Open-source Python sitemap crawler and Search Console overlap finder. 🔓
