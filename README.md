@@ -70,6 +70,7 @@
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
+- [OctoCheck](https://octocheck.ai/) - Free browser extension that audits any page for AI search readiness, with 100+ checks and a fix for each issue. 💵
 - [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free tool that tests ChatGPT and Perplexity citations in real time. 🆓
 - [PageLens AI Crawler Checker](https://pagelens.io/tools/ai-crawler-checker) - Free checker for GPTBot, ClaudeBot and PerplexityBot access. 🆓
 - [PromptEden](https://www.prompteden.com) - Monitor brand mentions across ChatGPT, Claude and Gemini. 💵
