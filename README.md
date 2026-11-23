@@ -134,6 +134,7 @@
 - [CohesionStack Link Preview](https://www.cohesionstack.com/link-preview) - Free Open Graph and social card preview checker. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
 - [Formgong Review Schema Generator](https://formgong.com/en/tools/review-schema-generator/) - Free JSON-LD review schema generator. 🆓
+- [Free SEO Generator](https://free-seo-generator.web-free.site/) - Free client-side generator for meta tags, robots.txt, XML sitemaps, JSON-LD schema and hreflang tags. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
