@@ -125,6 +125,7 @@
 - [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site’s mobile compatibility according to Google. 🆓
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Test your website's performance and get optimization tips. 🆓
 - [GTMetrix](https://gtmetrix.com/) - Measure your site’s Page Load Time, Total Page Size, and Total Requests. 💵
+- - [Lighthouse Audit & Performance Budgets](https://apify.com/rationalistic_tail/lighthouse-budget-auditor) - Hosted Lighthouse audits with mobile and desktop, a median of up to 3 runs, and
 - [Loader.io](https://loader.io/) - Cloud-based load testing. 💵
 - [WebPageTest](http://www.webpagetest.org/) - Test your website’s performance and loading speed. 🆓
 
