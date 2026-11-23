@@ -143,6 +143,7 @@
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata. 🆓
 - [Open Graph Image Preview](https://imagedimensions.com/tools/og-image-preview) - Open Graph image preview and debugger. 🆓
 - [Oxwyn Schema Generator](https://www.oxwynstudio.com/tools/schema-generator) - Client-side LocalBusiness JSON-LD generator. 🆓
+- [Schema markup generator](https://bestlatestapps.com/tools/schema-markup-generator/) - Browser tool that writes JSON-LD schema markup. 🆓
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data. 🆓
 - [SchemaForge](https://schemaforge.thememend.com) - Validated JSON-LD schema generator. 💵
 - [SERP Preview](https://github.com/jawadjalal/free-growth-tools/tree/main/serp-preview) - Open-source SERP snippet preview tool. 🔓
