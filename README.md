@@ -12,6 +12,7 @@
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
 - [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓
 - [DeepSpider](https://deepspider.ai/free-tools/) - 12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓
+- [FUF SEO Checker](https://www.gofuf.com/seo-checker) - Free SEO checker that grades up to 50 pages and detects the TYPO3, Drupal or WordPress version with its end of security updates. 🆓
 - [GSC Connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) - Open-source MCP server bridging Claude and Google Search Console. 🔓
 - [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓
 - [gsc-index-triage](https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage) - Open-source agent skill for Google Search Console indexing triage. 🔓
@@ -60,6 +61,7 @@
 - [Cited By AI](https://citedbyai.info) - Block-level AI citation auditing across a 28-module rubric. 💵
 - [Click Coded AI Visibility Check](https://clickcoded.com/ai-visibility-check-free/) - Free AI-crawler visibility checker with generated fix files. 🆓
 - [Foglift](https://foglift.io) - SEO and GEO analyzer with monitoring, API, CLI and MCP. 💵
+- [FUF GEO Checker](https://www.gofuf.com/geo-checker) - Free checker for AI search bot access, text without JavaScript and schema.org facts on up to 50 pages. 🆓
 - [geo-audit](https://github.com/bln-design/geo-audit) - Open-source single-file GEO auditor (AI crawler access, schema, E-E-A-T). 🔓
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
