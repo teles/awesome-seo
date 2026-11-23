@@ -12,6 +12,7 @@
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
 - [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓
 - [DeepSpider](https://deepspider.ai/free-tools/) - 12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓
+- [Geo Spoofing by GBP SEO Tools](https://chromewebstore.google.com/detail/geo-spoofing-by-gbp-seo-t/fppgllcaaondbfopnagbgnkoolkcaenf) - Chrome extension that shows Google results as if you searched from another city, for local SEO checks. 🆓
 - [GSC Connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) - Open-source MCP server bridging Claude and Google Search Console. 🔓
 - [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓
 - [gsc-index-triage](https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage) - Open-source agent skill for Google Search Console indexing triage. 🔓
@@ -64,6 +65,7 @@
 - [geolint](https://github.com/iliasabk/geolint) - "ESLint for AI search": audits AI-crawler access, llms.txt, schema and citability. 🔓
 - [GEO Optimizer](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source GEO toolkit that audits AI-crawler readiness. 🔓
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source dashboard that tracks AI search visibility. 🔓
+- [Glocavo](https://gbpseotools.com/ai-visibility-tracker) - Tracks whether ChatGPT, Perplexity, Gemini and Google AI recommend a local business, alongside a Google Maps grid rank tracker. 💵
 - [HitMind robots.txt Generator](https://hitmind.ai/tools/robots-txt-generator/) - Free robots.txt generator with AI-crawler rules for GPTBot, Claude and Perplexity. 🆓
 - [IndexFox](https://indexfox.ai/) - AI search visibility widget and monitoring for your brand. 💰
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
