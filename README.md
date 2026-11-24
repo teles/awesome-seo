@@ -18,6 +18,7 @@
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
 - [IMVASA SEO Audit](https://seoaudit.imvasa.dev/free-seo-audit) - Free 210-check SEO audit covering technical, on-page, Core Web Vitals and AI readiness. 🆓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
+- [Liftup AI Visibility Checker](https://liftup.tech/tools/ai-visibility-checker/) - Free online tool that checks how visible a website is to AI search tools. 🆓
 - [LinkBunny](https://getlinkbunny.com/tools/indexability-checker) - Free indexability and nofollow link checkers. 🆓
 - [Local Site Audit](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source browser extension that audits sites for technical defects. 🔓
 - [Manifold MCP](https://www.manifoldmcp.com) - Free MCP server exposing 15+ SEO tools (rankings, backlinks, keywords, GSC) to AI agents. 🆓
