@@ -54,6 +54,7 @@
 - [aeo-check](https://github.com/pchewlo/aeo-check) - Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
+- [ai-search-skills](https://github.com/citedby-eu/ai-search-skills) - Seven Claude Code, Cursor and Codex skills in stdlib Python: AI-crawler access per bot, llms.txt and JSON-LD checks, citation probe, citation gap and brand-answer audit. 🔓
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
 - [citable](https://github.com/WorkSmartAI-alt/citable) - CLI that audits AI search visibility and SEO. 🔓
