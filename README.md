@@ -108,6 +108,7 @@
 
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter. 💰
+- [AIWget Domain Rating Checker](https://aiwget.com/tools/domain-rating-checker) - Free Ahrefs DR3 and DR4 checker with Tranco Top-1M rank and embeddable SVG badges. 🆓
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Open-source tool that vets backlink quality and detects spam patterns. 🔓
 - [CallAI Tools](https://callaiapi.com/en/tools) - 100+ free client-side webmaster and SEO tools. 🆓
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
