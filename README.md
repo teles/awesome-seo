@@ -137,6 +137,7 @@
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
+- [Local Business Schema Generator](https://www.poweredbynooma.com/tools/local-business-schema-generator) - Free, browser-only LocalBusiness JSON-LD generator with a field checklist. 🆓
 - [nextjs-jsonld-schema](https://github.com/Aghefendi/nextjs-jsonld-schema) - Next.js library for JSON-LD structured data. 🔓
 - [ogimg.xyz](https://ogimg.xyz/) - Open Graph image generation API. 💵
 - [OmniSEO Tools](https://omniseotools.com) - 45 free client-side SEO, meta and schema utilities. 🆓
