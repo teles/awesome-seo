@@ -7,6 +7,7 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [AI Crawler Check](https://rankjudge.com/ai-crawler-check/) - Free robots.txt check for 17 AI crawlers, grouped by whether a block costs AI answer citations, search traffic, or only model training. 🆓
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
