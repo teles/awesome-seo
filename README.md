@@ -69,6 +69,7 @@
 - [LLM Pulse](https://llmpulse.ai) - Track brand visibility across ChatGPT, Perplexity and Gemini answers. 💵
 - [LovedByAI](https://www.lovedby.ai/) - WordPress plugin that makes pages citable by AI search engines. 💰
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - Manual, privacy-first CLI to measure citation share in AI answers (FR). 🔓
+- [Namebeam Free Check](https://check.namebeam.ai/?utm_source=teles_awesome_seo&utm_medium=listing) - Free check of which businesses AI engines name for a city and trade, from a dated public record (2026-08-05 to 2026-11-22). Source: https://markets.namebeam.ai/data/latest.json, read 2026-11-24.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and paid ads. 🔓
 - [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free tool that tests ChatGPT and Perplexity citations in real time. 🆓
 - [PageLens AI Crawler Checker](https://pagelens.io/tools/ai-crawler-checker) - Free checker for GPTBot, ClaudeBot and PerplexityBot access. 🆓
