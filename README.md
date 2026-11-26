@@ -110,6 +110,7 @@
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter. 💰
 - [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Open-source tool that vets backlink quality and detects spam patterns. 🔓
 - [CallAI Tools](https://callaiapi.com/en/tools) - 100+ free client-side webmaster and SEO tools. 🆓
+- [Chab](https://www.chab.ai) - Keyword search volumes and Google results from any city, as tools for AI agents like ChatGPT and Claude. 💵
 - [CrawlGraph](https://crawlgraph.com) - Backlink analysis and competitor research. 💵
 - [DR Checker](https://dr-checker.com/) - Check Ahrefs Domain Rating for any domain, free. 🆓
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing. 💵
