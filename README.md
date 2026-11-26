@@ -17,6 +17,7 @@
 - [gsc-index-triage](https://github.com/sapatmohit/agent-skills/tree/main/skills/gsc-index-triage) - Open-source agent skill for Google Search Console indexing triage. 🔓
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
 - [IMVASA SEO Audit](https://seoaudit.imvasa.dev/free-seo-audit) - Free 210-check SEO audit covering technical, on-page, Core Web Vitals and AI readiness. 🆓
+- [indexability-check](https://github.com/truone01/indexability-check) - Zero-dependency CLI that checks URLs or a sitemap for robots.txt blocks, noindex (meta and X-Robots-Tag), cross-host canonicals and status codes; exits non-zero for CI. 🔓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
 - [LinkBunny](https://getlinkbunny.com/tools/indexability-checker) - Free indexability and nofollow link checkers. 🆓
 - [Local Site Audit](https://github.com/Stephen-Psaradellis/local-site-audit) - Open-source browser extension that audits sites for technical defects. 🔓
