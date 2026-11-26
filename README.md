@@ -11,6 +11,7 @@
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
 - [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓
+- [Damdit](https://damdit.com/cli/) - Website audit in a real browser, as a Mac app and a CLI with an MCP server for coding agents: indexing, links, accessibility, with evidence. 💰
 - [DeepSpider](https://deepspider.ai/free-tools/) - 12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓
 - [GSC Connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) - Open-source MCP server bridging Claude and Google Search Console. 🔓
 - [gsc-hub](https://github.com/izzipizzy/gsc-hub) - Open-source self-hosted Search Console dashboard with striking-distance and cannibalization reports. 🔓
