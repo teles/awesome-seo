@@ -153,6 +153,7 @@
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
 - �🇧 [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - Research on how many sites block GPTBot, ClaudeBot and CCBot.
+- 🇬🇧 [Contractor Website Statistics 2026](https://www.advai.cloud/contractor-website-statistics) - Original study of 2,137 US contractor homepages: local signals in titles, local business schema, booking, chat and tap-to-call, with a free CSV.
 - 🇬🇧 [Faster Sites: Beyond PageSpeed Insights](https://moz.com/blog/faster-sites-beyond-pagespeed-insights) - How to make your website load faster.
 - 🇬🇧 [SEO Knowledge Base (XKnow)](https://xknow.org/vaults/seo/) - A cross-linked, agent-queryable SEO knowledge base (paid).
 - 🇬🇧 [How Online Reviews Impact Local SEO](https://www.shopify.com/retail/119916611-how-online-reviews-impact-local-seo-and-why-they-matter-to-your-bottom-line) - Explore how reviews affect local SEO.
