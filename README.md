@@ -136,6 +136,7 @@
 - [Formgong Review Schema Generator](https://formgong.com/en/tools/review-schema-generator/) - Free JSON-LD review schema generator. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
+- [Headlark Structured Data Checker](https://headlark.com/tools/structured-data-checker) - Checks a page's JSON-LD (by URL or pasted) for valid JSON, schema.org context, retired FAQ/How-to types and the properties Google requires or recommends. 🆓
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD. 🆓
 - [nextjs-jsonld-schema](https://github.com/Aghefendi/nextjs-jsonld-schema) - Next.js library for JSON-LD structured data. 🔓
 - [ogimg.xyz](https://ogimg.xyz/) - Open Graph image generation API. 💵
