@@ -119,6 +119,7 @@
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
+- [Superpixel](https://superpixel.run) - Free Chrome extension that shows the marketing tags and ad-account IDs of any website, plus the ads it runs in the major ad libraries. 🔓
 - [ZensInk](https://github.com/ZensInk/zens-ink-seo-package) - Free CLI toolkit for keyword research and technical audits. 🔓
 
 ## **Performance and Speed**
