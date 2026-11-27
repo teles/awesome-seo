@@ -53,6 +53,7 @@
 - [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) - Open-source 44-check SEO/AEO audit suite with Chrome extension and npm packages. 🔓
 - [aeo-check](https://github.com/pchewlo/aeo-check) - Open-source checker for AI crawler readability across ChatGPT, Claude and Perplexity. 🔓
 - [AEOrank](https://aeorank.dev) - Deterministic Answer Engine Optimization scoring via CLI. 🔓
+- [AI Prompt Tracking](https://aiprompttracking.com) - Free tool to monitor brand mentions and citations across ChatGPT, Perplexity, and AI answer engines. 🆓
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - CLI and GitHub Action that audit AI-crawler access. 🔓
 - [BotView](https://botview.app/) - Free AI crawler access checker and AI-answer recommendation tool. 🆓
 - [ChatGPT Citation Checker](https://github.com/lourdespaul/chatgpt-citation-checker) - Python script that checks whether ChatGPT names your company. 🔓
@@ -98,6 +99,7 @@
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT. 💵
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals. 💵
 - [SocialBu](https://socialbu.com) - Social media management and scheduling with automation. 💵
+- [The SEO Agent](https://www.theseoagent.ai) - AI SEO content platform covering keyword research, cited article writing, claim checks, and direct CMS publishing. 💵
 - [The SEO Autopilot](https://the-seo-autopilot.com) - Programmatic SEO playbook and automation system. 💵
 
 ## **Documentation and Guidelines**
