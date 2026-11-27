@@ -116,6 +116,7 @@
 - [looot-seo](https://github.com/loootai/looot-seo) - Open-source self-hosted SEO workspace (rank tracking, SERP snapshots, backlinks). 🔓
 - [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Open-source tracker for emerging keywords mined from X, GitHub and Hugging Face. 🔓
 - [Open Link Profiler](http://openlinkprofiler.org/) - Discover who is creating backlinks to your site. 🆓
+- [SaaSCity Open SEO & DR4 Directory Datasets](https://github.com/best-directories/saas-launch-datasets-2026) - Open CC-BY-4.0 CSV datasets covering 1,667 SaaS directories with Ahrefs DR3 vs DR4 deltas, 760 dofollow SEO directories, and a 2,801-domain directory health audit (interactive index at [saascity.io/best-saas-directories](https://saascity.io/best-saas-directories)). 🔓
 - [SemRush](http://www.semrush.com/) - Comprehensive tool for analyzing website keywords. 💵
 - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Open-source desktop app that scrapes SERPs and generates AI writing prompts. 🔓
 - [SiteData](https://sitedata.dev/) - Reverse-AdSense and ad-intelligence research. 💰
