@@ -9,6 +9,7 @@
 ## **Analysis and Site Auditing**
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
+- [Change My Host Audit & Tools](https://changemyhost.com/audit/) - Free A–F technical site audit, GTM/Consent Mode v2 checker, DNS propagation tool, and open-source browser inspector. 🆓
 - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free MCP server exposing Google Search Console and Bing Webmaster data to AI agents. 🆓
 - [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - Open-source CLI that renders JavaScript SPAs and compares raw vs rendered HTML. 🔓
 - [DeepSpider](https://deepspider.ai/free-tools/) - 12 free technical SEO tools (robots.txt, sitemap, indexability, canonical, hreflang). 🆓
