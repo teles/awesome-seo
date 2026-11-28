@@ -133,6 +133,7 @@
 - [BrainFeed Schema Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators with rich-result eligibility guidance. 🆓
 - [CohesionStack Link Preview](https://www.cohesionstack.com/link-preview) - Free Open Graph and social card preview checker. 🆓
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate. 🆓
+- [feedcheck-core](https://github.com/amunozsesma/feedcheck-core) - Open-source CLI that compares the prices and availability in a Google Merchant Center feed with the structured data on each product page. 🔓
 - [Formgong Review Schema Generator](https://formgong.com/en/tools/review-schema-generator/) - Free JSON-LD review schema generator. 🆓
 - [GeoImageTagger](https://geoimagetagger.com/) - AI photo geotagging and EXIF metadata for local SEO. 💵
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples. 🆓
