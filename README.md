@@ -78,6 +78,7 @@
 - [SEO for AI](https://getseoforai.com/) - Audit and improve how AI search engines read and cite your site. 💵
 - [SGEO](https://www.sgeo.it.com/) - SEO/GEO automation platform with schema injection and AI agents. 💵
 - [Skald Analytics](https://skaldanalytics.com/) - Open-source AI-traffic analytics from server logs (crawlers, AI reads, referrals). 🔓
+- [static-seo-geo-auditor](https://github.com/tbpfs/static-seo-geo-auditor) - Zero-dependency Python CLI and Agent Skill auditing static/SSR HTML readability for zero-JS AI crawlers, canonical/hreflang, JSON-LD, and sitemap dates. 🔓
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source marketing and SEO skills for AI coding agents. 🔓
 - [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin that adds GEO and structured-data signals. 🔓
 
